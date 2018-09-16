@@ -39,6 +39,7 @@ body{
 }
 
 .social li {
+	list-style-type: none;
     float: left;
 }
 
