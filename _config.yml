@@ -7,7 +7,7 @@ name: L8TN
 
 
 
-theme: jleighton/hyde
+theme: jekyll-theme-minimal
 
 # Short bio or description (displayed in the header)
 description: 
