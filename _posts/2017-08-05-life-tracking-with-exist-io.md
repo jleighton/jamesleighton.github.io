@@ -1,4 +1,5 @@
 ---
+Layout: post
 Title: Life Tracking with Exist
 Date: 2017-08-05 17:40
 Author: jamesleighton
@@ -6,7 +7,6 @@ Category: tracking
 Tags: [health, exist.io]
 Slug: life-tracking-with-exist-io
 
-layout: post
 
 ---
 lt up quite a collection of health and fitness apps over the last few years. MyFitnessPal (MFP) tracks my eating habits, Withings tracks my weight, my Apple Watch monitors my heart rate & my activities.
