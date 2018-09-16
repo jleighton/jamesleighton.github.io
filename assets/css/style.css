@@ -26,7 +26,7 @@ body{
 	color: #fff;
 }
 
-.social ul {
+ul.social{
 
 
   display:flex;
