@@ -5,7 +5,7 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  <span class="categories">{{page.category | capitalize | join: ', '}}</span>
+  <span class="categories">{{post.category | capitalize | join: ', '}}</span>
 
 <!-- stsart tags-->
   <span class="post-tags">
@@ -22,7 +22,7 @@ layout: default
 
 
 
-  
+
 
 
 </div>
