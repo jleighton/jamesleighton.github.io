@@ -70,6 +70,21 @@ html {
   }
 }
 
+@media (max-width: 64em) {
+  .topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    
+    width: 100%;
+    padding: 2rem 1rem;
+    color: rgba(255,255,255,.5);
+    background-color: #202020;
+
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
