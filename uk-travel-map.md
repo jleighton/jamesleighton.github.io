@@ -8,7 +8,7 @@ Layout: page
 
 <script src="/public/maps/openseadragon.min.js"></script>
 
-<div id="travelmap" style="width: 90%; height: 100px;"></div>
+<div id="travelmap" style="width: 100%; height: 1000px;"></div>
 <script type="text/javascript">
     OpenSeadragon({
         id:            "travelmap",
