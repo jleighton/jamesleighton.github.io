@@ -28,9 +28,7 @@ body{
 
 
 
-.social li {
-    float: left;
-}
+
 
 .social ul {
 
@@ -38,6 +36,10 @@ body{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+}
+
+.social li {
+    float: left;
 }
 
 a.nav-link {
