@@ -2,7 +2,10 @@
 Title: UK Travel Map
 Layout: page
 ---
-[![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)
+
+
+[![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)](/images/premier-inn-map-nov-17.png)
+
 
 Brewdog UK Bars
 
