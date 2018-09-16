@@ -28,10 +28,29 @@
   {% if site.instagram_username %}
   <li>
     <a href="https://instagram.com/{{ site.instagram_username }}">
-      <i class="fa fa-instagram fa-2x"></i> GitHub
+      <i class="fa fa-instagram fa-2x"></i> Instagram
     </a>
   </li>
 {% endif %}
+
+{% if site.untappd_username %}
+<li>
+  <a href="https://untappd.com/user/{{ site.untappd_username }}">
+    <i class="fa fa-untappd fa-2x"></i> Untappd
+  </a>
+</li>
+{% endif %}
+
+{% if site.nintendo %}
+<li>
+  <a href="https://nin.codes/{{ site.nintendo_username }}">
+    <i class="fa fa-nintendo-switch fa-2x"></i> Nintendo Switch
+  </a>
+</li>
+{% endif %}
+
+
+
 
 
 
