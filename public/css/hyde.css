@@ -58,6 +58,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  z-index: 998;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,10 +68,11 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    z-index: 998;
   }
 }
 
-@media (max-width: 64em) {
+@media (max-width: 48em) {
   .topbar {
     position: fixed;
     top: 0;
