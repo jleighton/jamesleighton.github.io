@@ -4,7 +4,7 @@ Layout: page
 ---
 
 <div id="openseadragon1" style="width: 100%"></div>
-<script src="/public/map/openseadragon.min.js"></script>
+<script src="/public/maps/openseadragon.min.js"></script>
 <script type="text/javascript">
     var viewer = OpenSeadragon({
         id: "openseadragon1",
