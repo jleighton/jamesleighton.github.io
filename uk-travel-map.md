@@ -4,22 +4,27 @@ Layout: page
 ---
 
 <div id="openseadragon1" style="width: 100%"></div>
+
+
 <script src="/public/maps/openseadragon.min.js"></script>
 <script type="text/javascript">
-    var viewer = OpenSeadragon({
-        id: "openseadragon1",
-        prefixUrl: "/openseadragon/images/",
-
-        tileSources: {
-                type: 'image',
-                url:  '/images/premier-inn-map-nov-17.png'
-
-
-
-
-
+    OpenSeadragon({
+        id:            "example-inline-configuration-for-image",
+        prefixUrl:     "/openseadragon/images/",
+        tileSources:   {
+            type: 'image',
+            url:  '/images/premier-inn-map-nov-17.png'
+        }
     });
 </script>
+<noscript>
+    <p>OpenSeadragon is not available unless JavaScript is enabled.</p>
+    <img src='/images/premier-inn-map-nov-17.png'
+         />
+</noscript>
+
+
+
 
 
 [![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)](/images/premier-inn-map-nov-17.png)
