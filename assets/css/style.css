@@ -27,18 +27,18 @@ body{
 }
 
 
-.social{
 
-	ul {
+
+	div#social ul {
 		overflow: auto;
 	}
 
-	ul li {
+	div#social ul li {
 		list-style-type: none;
 		float: left;
 	}
 
-	ul li a i {
+	div#social ul li a i {
 
 		width: 40px;
 		height: 40px;
@@ -52,7 +52,7 @@ body{
 
 
 
-}
+
 
 
 
