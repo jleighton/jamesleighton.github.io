@@ -6,8 +6,7 @@
 name: L8TN
 
 
-
-theme: jekyll-theme-minimal
+remote-theme: poole/hyde
 
 # Short bio or description (displayed in the header)
 description: 
