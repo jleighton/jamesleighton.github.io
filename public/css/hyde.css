@@ -90,6 +90,7 @@ html {
 
   .topbar-wrapper{
     height: 100%;
+    overflow:auto;
   }
 
   .topbar a{
