@@ -26,6 +26,16 @@ body{
 	color: #fff;
 }
 
+.social {
+
+	ul
+{
+  display:flex;
+  list-style:none;
+}
+}
+
+
 a.nav-link {
 	padding-bottom: 5px;
 	padding-top: 7px;
