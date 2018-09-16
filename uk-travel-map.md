@@ -12,7 +12,7 @@ Layout: page
 <script type="text/javascript">
     OpenSeadragon({
         id:            "travelmap",
-        defaultZoomLevel: 	3,
+        defaultZoomLevel: 	5,
         tileSources:   {
             type: 'image',
             url:  '/images/premier-inn-map-nov-17.png'
