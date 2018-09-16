@@ -88,6 +88,10 @@ html {
 
   }
 
+  .topbar-wrapper{
+    height:100%;
+  }
+
   .topbar a{
   color:#ffffff;
 
