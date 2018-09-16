@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "James Leighton"
+title: "James Leighton"
 
 
 remote-theme: poole/hyde
