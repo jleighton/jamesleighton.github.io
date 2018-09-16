@@ -7,10 +7,11 @@ Layout: page
 
 
 <script src="/public/maps/openseadragon.min.js"></script>
+
 <script type="text/javascript">
     OpenSeadragon({
-        id:            "example-inline-configuration-for-image",
-        prefixUrl:     "/openseadragon/images/",
+        id:            "travelmap",
+
         tileSources:   {
             type: 'image',
             url:  '/images/premier-inn-map-nov-17.png'
@@ -24,7 +25,7 @@ Layout: page
 </noscript>
 
 
-
+<div id="travelmap" style="width: 90%; height: 100px;"></div>
 
 
 [![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)](/images/premier-inn-map-nov-17.png)
