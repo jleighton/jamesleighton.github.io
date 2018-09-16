@@ -8,6 +8,36 @@
         </a>
       </h1>
       <p class="lead">My blog</p>
+      {% if site.twitter_username %}
+<ul>
+
+    <li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+
+  {% if site.github_username %}
+    <li>
+      <a href="https://github.com/{{ site.github_username }}">
+        <i class="fa fa-github"></i> GitHub
+      </a>
+    </li>
+  {% endif %}
+
+  {% if site.instagram_username %}
+  <li>
+    <a href="https://instagram/{{ site.instagram_username }}">
+      <i class="fa fa-instagram"></i> GitHub
+    </a>
+  </li>
+{% endif %}
+
+
+
+
+</ul>
+{% endif %}
     </div>
 
     <nav class="sidebar-nav">

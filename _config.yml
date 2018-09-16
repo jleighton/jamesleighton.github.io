@@ -6,7 +6,7 @@
 name: "L8TN"
 
 
-remote-theme: poole/hide
+remote-theme: poole/hyde
 
 # Short bio or description (displayed in the header)
 description:
@@ -19,20 +19,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: jleighton
-  instagram: geekyjames
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: geekyjames
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+twitter_username:     geekyjames
+github_username:      jleighton
+instagram_username: geekyjames
+
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
