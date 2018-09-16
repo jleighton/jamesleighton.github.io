@@ -89,3 +89,5 @@ exclude:
   - CNAME
 
 
+
+theme: jekyll-theme-minimal
