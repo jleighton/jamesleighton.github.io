@@ -3,15 +3,15 @@ Title: Life Tracking with Exist
 Date: 2017-08-05 17:40
 Author: jamesleighton
 Category: tracking
-Tags: health, exist.io
+Tags: [health, exist.io]
 Slug: life-tracking-with-exist-io
-Status: published
+
 layout: post
 
 ---
 lt up quite a collection of health and fitness apps over the last few years. MyFitnessPal (MFP) tracks my eating habits, Withings tracks my weight, my Apple Watch monitors my heart rate & my activities.
 
-![Life Tracking Flow](life-tracking-flow-2.png)
+![Life Tracking Flow](/images/life-tracking-flow-2.png)
 
 All that data! So many apps to view it all. Well, not really. Thanks to Apple Health and everything starting to talk to each other, all these disparate services can share their wealth of data with each other.
 
@@ -39,7 +39,7 @@ The thing that really ties together all my data is a dashboard called [Exist](ht
 
 If you sign up for a [trial of Exist with my link](https://exist.io/?referred_by=jamesleighton), you get an extra month for free (two months total!) so its worth checking out if you are at all interested in the data you generate every single day.
 
-\[caption id="" align="alignnone" width="2328"\]![Screen Shot 2017-08-05 at 18.15.20.png](/images/screen-shot-2017-08-05-at-18-15-20.png){.alignnone width="2328" height="1814"} Exist Daily Averages Dash board\[/caption\]
+\[caption id="" align="alignnone" width="2328"\]![Screen Shot 2017-08-05 at 18.15.20.png](/images/screen-shot-2017-08-05-at-18-15-20.png)
 
 I can see at a glance I walk about less on Saturdays, but I complete more workouts on Friday & Saturday. Basically, I sit at home most Saturdays, but I go to the gym more often then too. I can see via RescueTime I am more productive on Wednesdays and that Tuesdays are a shocker for me.
 
