@@ -8,6 +8,7 @@ Layout: page
 
 <script src="/public/maps/openseadragon.min.js"></script>
 
+<div id="travelmap" style="width: 90%; height: 100px;"></div>
 <script type="text/javascript">
     OpenSeadragon({
         id:            "travelmap",
@@ -25,7 +26,6 @@ Layout: page
 </noscript>
 
 
-<div id="travelmap" style="width: 90%; height: 100px;"></div>
 
 
 [![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)](/images/premier-inn-map-nov-17.png)
