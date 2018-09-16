@@ -14,4 +14,4 @@ Well, [sk22 on Github](https://gist.github.com/sk22/39cc280840f9d82df574c15d6eda
 ![Screen Shot 2017-08-15 at 20.29.16](/images/screen-shot-2017-08-15-at-20-29-16.png)
 ------------------------------------------------------------------------
 
-https://gist.github.com/sk22/39cc280840f9d82df574c15d6eda6629
+{% gist }sk22/39cc280840f9d82df574c15d6eda6629 % }
