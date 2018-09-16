@@ -27,19 +27,34 @@ body{
 }
 
 
+.social{
+
+	ul {
+		overflow: auto;
+	}
+
+	ul li {
+		list-style-type: none;
+		float: left;
+	}
+
+	ul li a i {
+
+		width: 40px;
+		height: 40px;
+		border-radius: 20px;
+		font-size: 25px;
+		text-align: center;
+		margin-right: 10px;
+		padding-top: 15%;
+	}
 
 
 
-ul.social {
-
-	list-style-type: none;
 
 }
 
-ul.social li {
-	list-style-type: none;
-    float: left;
-}
+
 
 a.nav-link {
 	padding-bottom: 5px;
