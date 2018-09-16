@@ -6,7 +6,11 @@ Tags: 3ds
 Slug: european-qr-codes-for-mario-tennis-open
 Status: published
 ---
-Go to the file selection screen in game, and press Up+Start. The QR code scanner will open; then just scan any of the following! These should work for the UK, Europe and Australia. As more QR codes are released, I will post them here so be sure to check soon at some point. If you don't already own [Mario Tennis Open](http://www.amazon.co.uk/gp/product/B007EMRJ8I/ref=as_li_ss_tl?ie=UTF8&tag=geekyjames-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B007EMRJ8I) why not buy a copy today? Additionally, why not pre-order [Mario Golf: World Tour](http://www.amazon.co.uk/dp/B00BG4R0JI?tag=geekyjames-21), released 2nd May 2014?
+Go to the file selection screen in game, and press Up+Start. The QR code scanner will open; then just scan any of the following! 
+
+These should work for the UK, Europe and Australia. As more QR codes are released, I will post them here so be sure to check soon at some point. If you don't already own [Mario Tennis Open](http://www.amazon.co.uk/gp/product/B007EMRJ8I/ref=as_li_ss_tl?ie=UTF8&tag=geekyjames-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B007EMRJ8I) why not buy a copy today? 
+
+
 
 Black
 -----
