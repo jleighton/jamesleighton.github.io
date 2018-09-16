@@ -90,7 +90,22 @@ html {
   color:#ffffff;
 
   }
+
+  .topbar h2{
+    color: #ffffff;
+  }
+
+
+  .hidetitleonmobile{
+  display: none;
+
+  }
+
+
 }
+
+
+
 
 /* Sidebar links */
 .sidebar a {

@@ -3,18 +3,12 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="hidetitleonmobile"<h1 class="post-title">{{ page.title }}</h1></div>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   <span class="categories">{{post.categories | capitalize | join: ', '}}</span>
 
 <!-- stsart tags-->
-  <span class="post-tags">
-    [&nbsp;
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a class="no-underline" href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-    {% endfor %}
-    ]
+
 <!-- end tags -->
 
 
@@ -65,7 +59,7 @@ layout: default
   })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                              
+
 </div>
 
 
