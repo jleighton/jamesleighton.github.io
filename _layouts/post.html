@@ -6,7 +6,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   <span class="categories">{{page.category | capitalize | join: ', '}}</span>
-  <span class="tags">{{page.tags | capitalize | join: ', '}}</span>
+
   {{ content }}
 
   tags
