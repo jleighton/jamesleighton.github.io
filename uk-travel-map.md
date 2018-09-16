@@ -1,9 +1,5 @@
 ---
 Title: UK Travel Map
-Date: 2017-08-15 15:02
-Author: jamesleighton
-Slug: uk-travel-map
-Status: published
 Layout: page
 ---
 [![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)
