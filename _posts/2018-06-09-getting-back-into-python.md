@@ -1,6 +1,5 @@
 ---
 Title: Getting back into Python
-Date: 2018-06-09 13:26
 Category: Programming
 Tags: python
 Slug: getting-back-into-python
