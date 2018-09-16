@@ -6,7 +6,7 @@
 name: L8TN
 
 
-remote-theme: dbtek/dbyll
+remote-theme: scotte/jekyll-clean
 
 # Short bio or description (displayed in the header)
 description: 
