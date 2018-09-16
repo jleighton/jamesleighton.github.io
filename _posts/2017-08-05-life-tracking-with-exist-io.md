@@ -5,8 +5,8 @@ Date: 2017-08-05 17:40
 Author: jamesleighton
 Category: tracking
 Tags:
-health
-exist.io
+- health
+- exist.io
 Slug: life-tracking-with-exist-io
 
 
