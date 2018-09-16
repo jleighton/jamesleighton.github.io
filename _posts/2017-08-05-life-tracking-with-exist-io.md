@@ -4,7 +4,9 @@ Title: Life Tracking with Exist
 Date: 2017-08-05 17:40
 Author: jamesleighton
 Category: tracking
-Tags: [health, exist.io]
+Tags:
+health
+exist.io
 Slug: life-tracking-with-exist-io
 
 
