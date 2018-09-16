@@ -41,6 +41,24 @@ layout: default
 </div>
 
 <div class="related">
+    <h3>Related Posts</h3>
+    {% assign firstCategory = page.categories | first %}
+    {% assign relatedCount = 0 %}
+    {% for related in site.categories[firstCategory] %}
+        {% unless page.permalink == related.permalink %}
+            {% assign relatedCount = relatedCount | plus: 1 %}
+            <a href="{{related.permalink}}">{{ related.title }}</a>
+        {% endunless %}
+
+        {% if relatedCount == 3 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+
+
+<div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}

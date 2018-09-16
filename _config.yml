@@ -91,5 +91,18 @@ exclude:
   - README.md
   - CNAME
 
+  collections:
+  category:
+    output: true
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
