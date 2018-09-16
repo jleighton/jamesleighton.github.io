@@ -38,7 +38,7 @@ body{
 	overflow: hidden;
 }
 
-.social li {
+ul.social li {
 	list-style-type: none;
     float: left;
 }
