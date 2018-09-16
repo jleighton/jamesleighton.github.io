@@ -1,6 +1,6 @@
 ---
-Title: UK Travel Map
-Layout: page
+title: UK Travel Map
+layout: page
 ---
 
 <div id="openseadragon1" style="width: 100%"></div>
