@@ -9,7 +9,7 @@ name: L8TN
 remote-theme: poole/hide
 
 # Short bio or description (displayed in the header)
-description: 
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -50,7 +50,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: /
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -80,6 +80,9 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+
+paginate:         5  
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -90,8 +93,3 @@ exclude:
 
 
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-
-
-
-
-
