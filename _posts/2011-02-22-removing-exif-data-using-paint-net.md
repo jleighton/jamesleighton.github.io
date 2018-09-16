@@ -6,6 +6,7 @@ Category: How To
 Tags: howto, software, tips
 Slug: removing-exif-data-using-paint-net
 Status: published
+layout: post
 ---
 A simple way to remove pesky EXIF data in photos (such as location information):
 

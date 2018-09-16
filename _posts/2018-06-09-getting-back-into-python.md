@@ -3,6 +3,7 @@ Title: Getting back into Python
 Category: Coding
 Tags: python coding
 Slug: getting-back-into-python
+layout: post
 
 ---
 I had a realisation this week that I should spend more time outside of work doing things to improve myself. I'm on track with my diet (mostly), I'm trying to cut back on sugars and (especially) sweeteners, so why not do something that stretches my brains in the evenings.
