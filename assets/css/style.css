@@ -26,13 +26,18 @@ body{
 	color: #fff;
 }
 
-ul.social{
+ul.social2{
 
 
   display:flex;
   list-style:none;
 
 }
+
+li.fa-li {
+    display: inline;
+}
+
 
 
 a.nav-link {
