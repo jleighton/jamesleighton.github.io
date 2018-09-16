@@ -1,6 +1,6 @@
 ---
 Title: Getting back into Python
-Category: Programming
+Category: [Coding]
 Tags: python
 Slug: getting-back-into-python
 Layout: post

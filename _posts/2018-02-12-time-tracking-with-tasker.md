@@ -2,8 +2,8 @@
 Title: Time Tracking with Tasker (Driving & Sleep Time)
 Date: 2018-02-12 14:20
 Author: jamesleighton
-Category: How To
-Tags: android, android auto, automation, productivity, tasker, timetracking
+Category: [How To]
+Tags: [android, android auto, automation, productivity, tasker, timetracking]
 Slug: time-tracking-with-tasker
 Status: published
 ---
@@ -18,7 +18,7 @@ I had a look through the rest of the Exist integrations and nothing really suppo
 
 ![Screenshot of aTimeLogger](/images/screenshot_smartselect_2018-02-12-13-45-24.jpg?w=1288)
 
-Android Auto --&gt; [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_GB) --&gt; [aTimeLogger](http://www.atimelogger.com/) 
+Android Auto --&gt; [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_GB) --&gt; [aTimeLogger](http://www.atimelogger.com/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Basically the flow is as follows. You could also automate this based on connecting to a certain bluetooth radio, or even just an NFC tag you have stuck to your dashboard.
@@ -42,10 +42,10 @@ Once this is done, go into Tasker and create two new tasks. One for when you plu
 <!-- -->
 
     Start Tracking Driving (2)
-        A1: Wait [ MS:0 Seconds:3 Minutes:0 Hours:0 Days:0 ] 
-        A2: aTimeLogger [ Configuration:Stop running and start Driving Timeout (Seconds):0 ] 
-        A3: Wait [ MS:0 Seconds:4 Minutes:0 Hours:0 Days:0 ] 
-        A4: Say [ Text:I'm tracking your driving now Engine:Voice:default:default Stream:3 Pitch:5 Speed:5 Respect Audio Focus:On Network:Off Continue Task Immediately:Off ] 
+        A1: Wait [ MS:0 Seconds:3 Minutes:0 Hours:0 Days:0 ]
+        A2: aTimeLogger [ Configuration:Stop running and start Driving Timeout (Seconds):0 ]
+        A3: Wait [ MS:0 Seconds:4 Minutes:0 Hours:0 Days:0 ]
+        A4: Say [ Text:I'm tracking your driving now Engine:Voice:default:default Stream:3 Pitch:5 Speed:5 Respect Audio Focus:On Network:Off Continue Task Immediately:Off ]
 
 The stop driving task is pretty much the same, but A2 is reversed so it's Stop driving. Pretty simple. Make sure you actually save your changes as I managed to close them without saving.
 
