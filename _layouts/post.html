@@ -5,9 +5,17 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ page.categories }}
+  <span class="categories">{{page.category | capitalize | join: ', '}}</span>
   <span class="tags">{{page.tags | capitalize | join: ', '}}</span>
   {{ content }}
+
+  tags
+  <ul>
+    {% for tags in page.tags %}
+      <li>{{ tags }}</li>
+    {% endfor %}
+  </ul>
+
 </div>
 
 <div class="related">
