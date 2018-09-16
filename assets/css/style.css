@@ -26,13 +26,12 @@ body{
 	color: #fff;
 }
 
-.social {
+.social ul {
 
-	ul
-{
+
   display:flex;
   list-style:none;
-}
+
 }
 
 
