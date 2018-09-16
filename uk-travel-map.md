@@ -12,7 +12,7 @@ Layout: page
 <script type="text/javascript">
     OpenSeadragon({
         id:            "travelmap",
-
+        defaultZoomLevel: 	3,
         tileSources:   {
             type: 'image',
             url:  '/images/premier-inn-map-nov-17.png'
@@ -24,11 +24,6 @@ Layout: page
     <img src='/images/premier-inn-map-nov-17.png'
          />
 </noscript>
-
-
-
-
-[![Premier Inn map Nov 17](/images/premier-inn-map-nov-17.png)](/images/premier-inn-map-nov-17.png)
 
 
 Brewdog UK Bars
