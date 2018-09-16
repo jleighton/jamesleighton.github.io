@@ -32,9 +32,9 @@ li.social-li {
 
 }
 
-.social {
+ul.social {
 
-  display: inline;
+display: inline;
 list-style:none;
 }
 
