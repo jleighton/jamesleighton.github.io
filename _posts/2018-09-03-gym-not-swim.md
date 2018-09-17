@@ -1,5 +1,5 @@
 ---
-Title: Gym not swim!
+Title: Swim not gym!
 Date: 2018-09-03 19:30
 Category: [Health]
 Tags: exist.io tracking android
