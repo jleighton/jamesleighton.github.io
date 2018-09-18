@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gaming Posts
-permalink: /category/gaming/
+permalink: /category/gaming/index.html
 ---
 
 
