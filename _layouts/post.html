@@ -31,7 +31,7 @@ layout: default
   {% endif %}
 <i class="fas fa-tags"></i>  
 {% for tag in tags %}
-  <em>{{tag}}</em>
+<em><a href="{{site.baseurl}}/tags/#{{category|slugize}}">{{tag}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
