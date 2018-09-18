@@ -2,7 +2,8 @@
 Title: +7 Days
 Date: 2016-11-19 14:44
 Author: jamesleighton
-Tags: cooking, getting healthy, life
+tags: cooking getting-healthy life
+categories: Health
 Slug: 7-days
 Layout: post
 ---

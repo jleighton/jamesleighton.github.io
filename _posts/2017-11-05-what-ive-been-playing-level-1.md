@@ -2,8 +2,8 @@
 Title: What I've Been Playing - Level 1
 Date: 2017-11-05 16:30
 Author: jamesleighton
-Category: gaming
-Tags: games, mario, stardew, switch
+categories: gaming
+tags: games mario stardew switch
 Slug: what-ive-been-playing-level-1
 Status: published
 Layout: post

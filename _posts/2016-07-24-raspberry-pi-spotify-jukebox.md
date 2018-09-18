@@ -3,7 +3,7 @@ Title: Raspberry Pi Spotify Jukebox
 Date: 2016-07-24 00:00
 Author: jamesleighton
 categories: Projects
-tags: projects raspberry pi
+tags: projects raspberry-pi
 Slug: raspberry-pi-spotify-jukebox
 Status: published
 ---

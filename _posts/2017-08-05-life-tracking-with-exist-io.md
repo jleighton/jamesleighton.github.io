@@ -3,10 +3,8 @@ Layout: post
 Title: Life Tracking with Exist
 Date: 2017-08-05 17:40
 Author: jamesleighton
-Category: tracking
-Tags:
-- health
-- exist.io
+categories: tracking
+Tags: health tracking existio
 Slug: life-tracking-with-exist-io
 
 

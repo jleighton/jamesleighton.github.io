@@ -2,8 +2,8 @@
 Title: How to scrobble to Last.fm with Spotify Connect
 Date: 2017-08-16 12:23
 Author: jamesleighton
-Category: [How To]
-Tags: [lastfm, spotify]
+categories: How-To
+tags: lastfm spotify
 Slug: how-to-scrobble-to-last-fm-with-spotify-connect
 Status: published
 ---

@@ -3,7 +3,7 @@ Title: Fantasy Life Item Duplication
 Date: 2014-11-09 09:10
 Author: jamesleighton
 categories: gaming
-tags: 3ds, glitch
+tags: 3ds glitch
 layout: post
 Slug: fantasy-life-item-dupingduplication
 Status: published

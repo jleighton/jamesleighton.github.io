@@ -2,7 +2,7 @@
 Title: Removing EXIF Data Using Paint.net
 Date: 2011-02-22 13:55
 Author: jamesleighton
-categories: How To
+categories: How-To
 tags: howto software tips
 Slug: removing-exif-data-using-paint-net
 Status: published
