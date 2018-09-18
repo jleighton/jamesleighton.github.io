@@ -1,0 +1,67 @@
+---
+layout: default
+title: Gaming Posts
+permalink:/category/gaming/
+---
+
+
+
+<div class="posts">
+  {% for post in site.categories.gaming %}
+  <div class="post">
+
+
+<h1 class="post-title">{{ post.title }}</h1>
+  <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
+
+
+
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  <i class="far fa-folder-open"></i>
+  {% for category in categories %}
+   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+
+
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+<i class="fas fa-tags"></i>
+{% for tag in tags %}
+<a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</em>
+</span>
+
+
+
+
+      {{ post.excerpt }}   <a href="{{ post.url }}">[ Read More ]</a>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
