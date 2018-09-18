@@ -4,14 +4,14 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}</span></em>
+  <em><div class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}</div></em>
 
 <!-- stsart tags-->
 
 <!-- end tags -->
 
 
-<span class="post-categories">
+<div class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
@@ -22,8 +22,8 @@ layout: default
    <em><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</span>
-<span class="post-tags">
+</div>
+<div class="post-tags">
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -34,7 +34,7 @@ layout: default
 <em><a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</span>
+</tags>
 
 
 
