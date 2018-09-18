@@ -17,9 +17,9 @@ layout: default
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  Category: 
+  <i class="far fa-folder-open"></i> Category: 
   {% for category in categories %}
-  <i class="far fa-folder-open"> <em><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></em>
+   <em><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
@@ -29,8 +29,9 @@ layout: default
   {% else %}
     {% assign tags = page.tags %}
   {% endif %}
-  {% for tag in tags %}
-  <i class="fas fa-tags"></i> <em>{{tag}}</em>
+<i class="fas fa-tags"></i>  
+{% for tag in tags %}
+  <em>{{tag}}</em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
