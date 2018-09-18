@@ -2,8 +2,8 @@
 Title: 16 days till Black and White are released!
 Date: 2011-02-15 16:48
 Author: jamesleighton
-Category: gaming
-Tags: games, pokemon
+categories: gaming
+tags: games pokemon
 Slug: 16-days-till-black-and-white-are-released
 Status: published
 Layout: post
