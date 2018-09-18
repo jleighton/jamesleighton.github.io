@@ -2,7 +2,7 @@
 Title: Swim not gym!
 Date: 2018-09-03 19:30
 categories: Health
-Tags: exist.io tracking android
+Tags: [exist.io, tracking, android]
 Layout: post
 ---
 I tried the gym. I hate the gym. I keep trying, but it’s always awful.
