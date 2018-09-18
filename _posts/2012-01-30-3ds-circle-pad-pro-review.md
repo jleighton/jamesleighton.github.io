@@ -2,8 +2,8 @@
 Title: 3DS Circle Pad Pro Review
 Date: 2012-01-30 11:02
 Author: jamesleighton
-Categories: gaming
-Tags: 3ds reviews
+categories: gaming
+tags: 3ds reviews
 Slug: 3ds-circle-pad-pro-review
 Status: published
 Layout: post
