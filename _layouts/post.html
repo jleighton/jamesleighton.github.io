@@ -11,19 +11,19 @@ layout: default
 <!-- end tags -->
 
 
-<div class="post-categories">
+<span class="post-categories">
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
-  <i class="far fa-folder-open"></i> Category: 
+  <i class="far fa-folder-open"></i> 
   {% for category in categories %}
    <em><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</div>
-<div class="post-tags">
+</span>
+<span class="post-tags">
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
@@ -31,10 +31,10 @@ layout: default
   {% endif %}
 <i class="fas fa-tags"></i>  
 {% for tag in tags %}
-<em><a href="{{site.baseurl}}/tags/#{{category|slugize}}">{{tag}}</a></em>
+<em><a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a></em>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</div>
+</span>
 
 
 
