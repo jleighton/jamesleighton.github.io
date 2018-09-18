@@ -12,7 +12,9 @@ permalink: /category/gaming/index.html
 
 
 <h1 class="post-title">{{ post.title }}</h1>
-  <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
+  <em><span class="post-date">
+  
+  <i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
 
 
 
@@ -36,15 +38,18 @@ permalink: /category/gaming/index.html
 <i class="fas fa-tags"></i>
 {% for tag in tags %}
 <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
-</em>
+
 </span>
+</em>
 
 
 
-
-      {{ post.excerpt }}   <a href="{{ post.url }}">[ Read More ]</a>
+      {{ post.excerpt }}
+      
+      <a href="{{ post.url }}">[ Read More ]</a>
   </div>
   {% endfor %}
 </div>
