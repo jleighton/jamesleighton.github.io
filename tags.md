@@ -6,7 +6,7 @@ title: Tags
 
 
 <div id="archives">
-{% for category in site.tags %}
+{% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugify }}"></div>
