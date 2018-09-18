@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}</em>TEST
+  <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}
 
 
 
@@ -15,7 +15,7 @@ layout: default
   {% endif %}
   <i class="far fa-folder-open"></i> 
   {% for category in categories %}
-   <em><a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a></em>
+   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 
@@ -27,9 +27,10 @@ layout: default
   {% endif %}
 <i class="fas fa-tags"></i>  
 {% for tag in tags %}
-<em><a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a></em>
+<a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
+</em>
 </span>
 
 
