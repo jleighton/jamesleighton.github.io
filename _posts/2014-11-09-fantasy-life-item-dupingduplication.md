@@ -1,9 +1,10 @@
 ---
-Title: Fantasy Life Item Duping/Duplication
+Title: Fantasy Life Item Duplication
 Date: 2014-11-09 09:10
 Author: jamesleighton
-Category: gaming
-Tags: 3ds, glitch
+categories: gaming
+tags: 3ds, glitch
+layout: post
 Slug: fantasy-life-item-dupingduplication
 Status: published
 ---

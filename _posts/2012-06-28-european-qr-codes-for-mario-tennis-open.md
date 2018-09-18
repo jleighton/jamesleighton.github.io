@@ -1,10 +1,11 @@
 ---
 Title: European QR Codes for Mario Tennis Open
 Date: 2012-06-28 09:26
-Category: gaming
-Tags: 3ds
+categories: gaming
+tags: 3ds
 Slug: european-qr-codes-for-mario-tennis-open
 Status: published
+layout: post
 ---
 Go to the file selection screen in game, and press Up+Start. The QR code scanner will open; then just scan any of the following! 
 
@@ -20,22 +21,22 @@ Black
 Blue
 ----
 
-![mt-blue](https://jamesleighton.files.wordpress.com/2016/11/mt-blue.png)
+![mt-blue](/images/mt-blue.png)
 
 Light Blue
 ----------
 
-![mt-lightblue](https://jamesleighton.files.wordpress.com/2016/11/mt-lightblue.png)
+![mt-lightblue](/images/mt-lightblue.png)
 
 Metal
 -----
 
-![mt-metal](https://jamesleighton.files.wordpress.com/2016/11/mt-metal.png)
+![mt-metal](/images/mt-metal.png)
 
 Pink
 ----
 
-![mt-pink](https://jamesleighton.files.wordpress.com/2016/11/mt-pink.jpg)
+![mt-pink](/images/mt-pink.jpg)
 
 Red
 ---

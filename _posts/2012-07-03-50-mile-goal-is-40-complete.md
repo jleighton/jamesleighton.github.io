@@ -3,7 +3,8 @@ Layout: post
 Title: 50 mile goal is 40% complete!
 Date: 2012-07-03 11:02
 Author: jamesleighton
-Tags: cycling, getting healthy, mud, summer 2012
+categories: Health
+tags: cycling getting-healthy mud summer-2012
 Slug: 50-mile-goal-is-40-complete
 Status: published
 ---
