@@ -17,7 +17,7 @@ title: Tags
     {% for post in site.tags[tag_name] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-      <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}
+      <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
 
 
 
