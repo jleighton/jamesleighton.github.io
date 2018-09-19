@@ -1,5 +1,5 @@
 ---
-Title: Animal Crossing: New Leaf - One Week Later
+title: Animal Crossing New Leaf - One Week Later
 Date: 2013-06-21 11:25
 Author: jamesleighton
 categories: Gaming

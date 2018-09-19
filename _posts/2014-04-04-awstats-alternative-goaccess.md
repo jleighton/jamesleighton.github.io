@@ -1,6 +1,6 @@
 ---
-Title: AWStats Alternative: GoAccess
-Date: 2014-04-04 18:22
+title: AWStats Alternative GoAccess
+date: 2014-04-04 18:22
 Author: jamesleighton
 categories: How-To
 tags: geek server
