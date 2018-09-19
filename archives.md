@@ -11,7 +11,7 @@ layout: page
         {{ post.title }}
       </a>
     </h2>
-    <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}
+    <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
 
 
 
