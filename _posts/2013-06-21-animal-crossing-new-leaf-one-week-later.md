@@ -2,7 +2,7 @@
 Title: Animal Crossing: New Leaf - One Week Later
 Date: 2013-06-21 11:25
 Author: jamesleighton
-categories: gaming
+categories: Gaming
 tags: 3ds animal-crossing
 Slug: animal-crossing-new-leaf-one-week-later
 Status: published

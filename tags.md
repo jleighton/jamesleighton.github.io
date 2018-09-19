@@ -43,10 +43,11 @@ title: Tags
     <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
+
+
+    {% endfor %}
     </em>
     </span>
-    </article>
-    {% endfor %}
   </div>
 {% endfor %}
 </div>

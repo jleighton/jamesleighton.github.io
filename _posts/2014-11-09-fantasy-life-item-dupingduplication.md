@@ -5,7 +5,7 @@ Author: jamesleighton
 categories: Gaming
 tags: 3ds glitch
 layout: post
-Slug: fantasy-life-item-dupingduplication
+Slug: fantasy-life-item-duping
 Status: published
 ---
 There is a simple way to duplicate any item that is stackable by using the streetpass functionality built into Fantasy Life for Nintendo 3DS.
