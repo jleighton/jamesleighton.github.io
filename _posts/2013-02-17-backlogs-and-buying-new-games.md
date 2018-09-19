@@ -7,6 +7,7 @@ tags: 3ds backlog challenges steam vita
 Slug: backlogs-and-buying-new-games
 Status: published
 ---
+
 Backlogs and Buying New Games....  Damn, I really want [Persona 4 Golden](http://www.amazon.co.uk/gp/product/B009RH725S/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B009RH725S&linkCode=as2&tag=trrxf-21)... but honestly will I get time to play it? Ignoring Four in February I have so much still to play (that I do really want to get around to at some point! Backlogs are a bad thing for motivation to play games. Here are just some of my outstanding games....  
 * Professor Layton series on DS  
 * Dragon Quest 4/5/6 remakes on DS  

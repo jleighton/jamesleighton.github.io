@@ -2,8 +2,8 @@
 Title: Apple AirPort Express
 Date: 2011-02-25 21:50
 Author: jamesleighton
-categories: How-To
-tags: audio, mac, networking, reviews, tech
+categories: Reviews
+tags: audio mac networking reviews tech
 Slug: apple-airport-express
 Status: published
 ---
