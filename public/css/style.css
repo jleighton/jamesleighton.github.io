@@ -1,5 +1,7 @@
 div#social ul {
 	overflow: auto;
+    padding-inline-start: 10px;
+
 }
 
 div#social ul li {
