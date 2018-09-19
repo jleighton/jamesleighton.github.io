@@ -20,7 +20,7 @@ title: Home
   {% endif %}
   <i class="far fa-folder-open"></i>
   {% for category in categories %}
-   <a href="{{site.baseurl}}/category/{{category|slugize}}/">{{category}}</a>
+   <a href="{{site.baseurl}}/category/{{category|downcase}}/">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 

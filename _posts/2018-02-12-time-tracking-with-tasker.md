@@ -2,8 +2,8 @@
 Title: Time Tracking with Tasker (Driving & Sleep Time)
 Date: 2018-02-12 14:20
 Author: jamesleighton
-Category: Lifelogging
-Tags: android android-auto automation productivity tasker timetracking lifelogging
+categories: Lifelogging
+Tags: android android-auto productivity tasker timetracking lifelogging
 Slug: time-tracking-with-tasker
 Status: published
 ---
