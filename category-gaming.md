@@ -7,13 +7,13 @@ permalink: /category/gaming/index.html
 
 
 <div class="posts">
-  {% for post in site.categories.gaming %}
+  {% for post in site.categories.Gaming %}
   <div class="post">
 
 
 <h1 class="post-title">{{ post.title }}</h1>
   <em><span class="post-date">
-  
+
   <i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
 
 
@@ -48,7 +48,7 @@ permalink: /category/gaming/index.html
 
 
       {{ post.excerpt }}
-      
+
       <a href="{{ post.url }}">[ Read More ]</a>
   </div>
   {% endfor %}

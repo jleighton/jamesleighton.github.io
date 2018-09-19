@@ -2,7 +2,7 @@
 Title: What I've Been Playing - Level 0
 Date: 2017-06-17 19:35
 Author: jamesleighton
-categories: gaming
+categories: Gaming
 tags: 3ds backlog dq-heroes f1-2016 ps4 switch zelda
 Slug: what-ive-been-playing-level-0
 Status: published

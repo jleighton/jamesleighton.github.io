@@ -2,7 +2,7 @@
 Title: What I've been playing - Level 2
 Date: 2018-02-03 00:51
 Author: jamesleighton
-categories: gaming
+categories: Gaming
 tags: backlog golf-story mario-rabbids skyrim stardew-valley switch
 Slug: what-ive-been-playing-level-2
 Status: published
@@ -42,7 +42,7 @@ Did I mention it has ~~frisbee~~ disc golf, and mini golf alongside the normal g
 
 ![](images/2018/02/golf-story.jpg)
 
-### 
+###
 
 ![](images/smartselectimage_2018-02-02-23-38-16.jpg)
 

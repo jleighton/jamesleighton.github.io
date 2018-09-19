@@ -2,7 +2,7 @@
 Title: What I've Been Playing - Level 1
 Date: 2017-11-05 16:30
 Author: jamesleighton
-categories: gaming
+categories: Gaming
 tags: games mario stardew switch
 Slug: what-ive-been-playing-level-1
 Status: published
@@ -37,4 +37,3 @@ The current 'to play list'...
 -   Pokemon Silver (3DS Virtual Console)
 -   Pullblox (3DS Download)
 -   Super Mario Galaxy (Wii)
-
