@@ -25,7 +25,7 @@ permalink: /category/lifelogging/index.html
   {% endif %}
   <i class="far fa-folder-open"></i>
   {% for category in categories %}
-   <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+   <a href="{{site.baseurl}}/categories/{{category|downcase}}/">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 
