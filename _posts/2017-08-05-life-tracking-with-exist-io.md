@@ -4,12 +4,12 @@ Title: Life Tracking with Exist
 Date: 2017-08-05 17:40
 Author: jamesleighton
 categories: Lifelogging
-Tags: health tracking existio
+tags: health tracking existio
 Slug: life-tracking-with-exist-io
 
 
 ---
-lt up quite a collection of health and fitness apps over the last few years. MyFitnessPal (MFP) tracks my eating habits, Withings tracks my weight, my Apple Watch monitors my heart rate & my activities.
+I've built up quite a collection of health and fitness apps over the last few years. MyFitnessPal (MFP) tracks my eating habits, Withings tracks my weight, my Apple Watch monitors my heart rate & my activities.
 
 ![Life Tracking Flow](/images/life-tracking-flow-2.png)
 
