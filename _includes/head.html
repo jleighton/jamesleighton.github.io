@@ -75,9 +75,9 @@
   <meta content="article" property="og:type">
 {% else %}
   <meta content="website" property="og:type">
-{% endif %}
-{% if page.description %}
-  <meta content="{{ page.excerpt }}" property="og:description">
+{% endif %} 
+{% if post.description %}
+  <meta content="{{ post.excerpt }}" property="og:description">
 {% else %}
   <meta content="{{ site.description }}" property="og:description">
 {% endif %}
