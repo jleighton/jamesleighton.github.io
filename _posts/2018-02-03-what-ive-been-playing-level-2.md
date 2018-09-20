@@ -7,6 +7,7 @@ tags: backlog golf-story mario-rabbids skyrim stardew-valley switch
 Slug: what-ive-been-playing-level-2
 Status: published
 Layout: post
+image: /images/joycon.jpg
 ---
 
 It's been a while since my last blog post... I've been busy with work, the gym... and... playing lots of games! Here's a run down of that last activity.
@@ -14,6 +15,8 @@ It's been a while since my last blog post... I've been busy with work, the gym..
 ### **November 2017**
 
 After telling myself I wouldn't be buying Skyrim for the ~~second~~ third time, I bought Skyrim for the third time. I've spent the most time in the game this time, but I still got bored of the main quest. Pretty sure I finished the Dark Brotherhood questline, starting being a thieving shit in the Thieves Guild and generally romped my way across the world.
+
+![Switch Joycons](/images/joycon.jpg)
 
 Playing Skyrim on a portable is really neat, and probably the reason I managed to put so much time into it. I will go back and finish the main quest line at least, but for now I'm done with Skyrim again. I'm hoping for a Fallout port in the future so I can buy those again and play on the go. Please, Bethesda.
 

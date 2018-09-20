@@ -11,7 +11,7 @@ image: /images/clock.jpg
 
 I listen to the podcast Cortex when I'm driving, and they got me interesting in looking up time tracking and how maybe this would benefit me. I already use [Rescuetime with Exist](http://jamesleighton.com/2017/08/05/life-tracking-with-exist-io/) as a measure of sleep, productivity, social media posts, and other things that correlate to these like the weather, the length of the day, and more. It's pretty neat and I look at it several times a week.
 
- ![Photo of clock](/images/clock.jpg)
+ ![Photo of clock](/images/clock.jpg){:class="responsive-image"}
 
 One metric it misses is driving time. As someone who drove 17,000 miles in the last 12 months for work this is pretty key to me. Apparently [rescuetime can do it with an expensive add on,](https://blog.rescuetime.com/new-integration-with-automatic-track-your-driving-time-like-your-computer-time/) but that only works in the US so that's no good.
 
