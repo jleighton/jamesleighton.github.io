@@ -86,10 +86,9 @@ exclude:
   - README.md
   - CNAME
 
-
-  feed:
+feed:
   collections:
-    - Projects
+      - Projects
 
 
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
