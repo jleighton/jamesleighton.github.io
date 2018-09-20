@@ -8,9 +8,8 @@ Slug: raspberry-pi-spotify-jukebox
 Status: published
 ---
 
-**Goal**
 
-To create a simple to use office based music jukebox that everyone can use and no-one can take overall control of.
+Goal: To create a simple to use office based music jukebox that everyone can use and no-one can take overall control of.
 
 It needs to be clear, simple, and intuitive. It should be reliable, and not require manual intervention.
 
