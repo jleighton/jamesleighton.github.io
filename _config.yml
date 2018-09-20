@@ -88,7 +88,11 @@ exclude:
 
 feed:
   collections:
-      - Projects
+    Projects:
+      path: "/projects.xml"
+
+
+url: https://www.jamesleighton.com
 
 
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
