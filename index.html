@@ -39,9 +39,9 @@ title: Home
 </span>
 
 
-<div class="img-home" style="float: right; width: 26%;"><img src=" {{ post.image }}"/></div>
+<img src=" {{ post.image }}"/>
 
-      <div style="float: left;">{{ post.excerpt }} <a href="{{ post.url }}">[ Read More ]</a></div>
+      {{ post.excerpt }} <a href="{{ post.url }}">[ Read More ]</a>
   </div>
   {% endfor %}
 </div>
