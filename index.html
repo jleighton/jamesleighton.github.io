@@ -44,7 +44,8 @@ title: Home
 {% else %}
 
  {% for category in categories %}
-   <meta content="https://www.jamesleighton.com/images/cat-{{category|downcase}}.png" property="og:image">
+ <img src="https://www.jamesleighton.com/images/cat-{{category|downcase}}.png" style="width:25%; float: left; padding-right:8px;" title="{{ post.title }}" />
+   
   {% endfor %}
 
 
