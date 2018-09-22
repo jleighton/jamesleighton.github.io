@@ -2,7 +2,7 @@
 Title: Android O2 MMS Settings
 Date: 2012-02-26 10:34
 Author: jamesleighton
-categories: gadgets
+categories: How-To
 tags: android reviews
 Slug: android-o2-mms-settings
 Status: published
