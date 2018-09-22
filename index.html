@@ -39,7 +39,20 @@ title: Home
 </span>
 
 
-<img src=" {{ post.image }}" style="width:25%; float: right; padding-left:10px;" title="{{ post.title }}" />
+{% if page.image %}
+<img src=" {{ post.image }}" style="width:25%; float: left; padding-right:8px;" title="{{ post.title }}" />
+{% else %}
+
+ {% for category in categories %}
+   <meta content="https://www.jamesleighton.com/images/cat-{{category|downcase}}.png" property="og:image">
+  {% endfor %}
+
+
+
+
+{% endif %}
+
+
 
      <div class="justified-post-content" style="text-align:justify;"> {{ post.excerpt }} </div><a href="{{ post.url }}">[ Read More ]</a>
   </div>
