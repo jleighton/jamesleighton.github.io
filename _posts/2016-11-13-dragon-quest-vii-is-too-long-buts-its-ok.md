@@ -1,9 +1,9 @@
 ---
-Title: Dragon Quest VII is too long, but's that's OK
-Date: 2016-11-13 21:21
+title: Dragon Quest VII is too long, but's that's OK
+date: 2016-11-13 21:21
 Author: jamesleighton
 categories: Gaming
-Tags: 3ds backlog jrpg dragonquest
+tags: 3ds backlog jrpg dragonquest
 Status: published
 ---
 
