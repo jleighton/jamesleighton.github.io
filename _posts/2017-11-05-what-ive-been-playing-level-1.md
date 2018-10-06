@@ -1,12 +1,13 @@
 ---
-Title: What I've Been Playing - Level 1
+title: What I've Been Playing - Level 1
 Date: 2017-11-05 16:30
 Author: jamesleighton
-categories: Gaming
+categories: Backlog
 tags: games mario stardew switch
 Slug: what-ive-been-playing-level-1
 Status: published
 Layout: post
+image: /images/2017102722040200-8aedff741e2d23fbed39474178692daf.jpg
 ---
 
 I still haven't really completed many games in 2017. I was going to avoid Super Mario Odyssey until I'd beaten Galaxy and Galaxy 2, but that didn't happen. (I got to the credits in Odyssey, though so that's OK. Maybe.)

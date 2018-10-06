@@ -1,19 +1,22 @@
 ---
-Title: What I've Been Playing - Level 0
+title: What I've Been Playing - Level 0
 Date: 2017-06-17 19:35
 Author: jamesleighton
-categories: Gaming
+categories: Backlog
 tags: 3ds backlog dq-heroes f1-2016 ps4 switch zelda
 Slug: what-ive-been-playing-level-0
 Status: published
 Layout: post
+image: /images/joycon.jpg
 ---
 
-![BOTW](/images/BreathoftheWildFinalCover.jpg)
+
 
 I haven't really gotten into anything much recently. Instead, I tried to play everything at the same time, and got bored of it all before too long.
 
 I started Breath of the Wild, accidentally wiped my save file, started again then didn't really go back to it. I played Mario Kart 8 Deluxe for about 20 hours in the two weeks after it came out, then haven't been back to it at all. Also on Switch I bought World of Goo, I am Setsuna, Disgaea 5, Minecraft and never really got into any of them. Whoops. Just need Stardew Valley so I can buy that too, then not play it.
+
+![BOTW](/images/BreathoftheWildFinalCover.jpg)
 
 On PS4 I got back into Formula 1 2016 picking up my save from last September on the super easy mode, because driving F1 cars is hard. I am currently enjoying thoroughly beating everyone even though they basically all forgot how to drive.
 
