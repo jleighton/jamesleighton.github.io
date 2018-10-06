@@ -9,7 +9,7 @@ Status: published
 
 Ouch. I think I realised I had a problem after I took this photo at the university library the other week.
 
-![caffeine problem](http://jamesleighton.files.wordpress.com/2012/01/caffeine-problem.jpg "caffeine problem"){width="402" height="309"}
+![caffeine problem](/images/caffeine-problem.jpg "caffeine problem")
 
 I was probably drinking an average of 1 to 2 cans of various energy drinks daily. (Rockstar Guava is the best energy drink ever. No debating.) It’s never caused me much problems until this week. It just continued the vicious cycle which crashed and burnt spectacularly this week. Withdrawal fucking sucks. Remind me never to take hard drugs, kthx.
 
@@ -21,6 +21,6 @@ I got through that lecture and the headache returned for some more punishment. I
 
 Hopefully tomorrow involves less headaches and more feeling better. I don’t even want to think about work on Saturday currently! I think this may be my catalyst for getting healthier, sleeping more and generally not consuming as much crap as I have been known to consume in the past.
 
-![caffeine2](http://jamesleighton.files.wordpress.com/2012/01/caffeine2.jpg "caffeine2"){width="411" height="321"}
+![caffeine2](/images/caffeine2.jpg "caffeine2")
 
 I don’t expect I’ll go caffeine free, I’m not that silly. I’m just going to avoid energy drinks!

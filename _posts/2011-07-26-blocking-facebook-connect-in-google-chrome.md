@@ -13,6 +13,6 @@ Adblock Plus to the rescue! Found the filter rules [here](http://www.dhcollier.c
 
 Simply download [Adblock for Chrome](https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb) and add the following to the filter:
 
-> \*.facebook.\*\$domain=\~facebook.com|\~127.0.0.1
+``` \*.facebook.\*\$domain=\~facebook.com|\~127.0.0.1```
 
 Simple as that, Facebook Connect disappears from every site!

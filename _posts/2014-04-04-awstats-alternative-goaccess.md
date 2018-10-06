@@ -21,11 +21,9 @@ If you simply head off to [GoAccess's webpage](http://goaccess.prosoftcorp.com/d
 
 If you have issues with dependencies, try installing the following packages which should cover most of the dependencies in one command.
 
-<div class="highlight">
-
+```shell
     sudo apt-get install dh-autoreconf build-essential libglib2.0-dev libncurses5-dev libncursesw5-dev libgeoip-dev
-
-</div>
+```
 
 If you're using Lighttpd like me, when you first run GoAccess make sure to select the NCSA Combined Log Format otherwise you'll be missing portions of your data.
 

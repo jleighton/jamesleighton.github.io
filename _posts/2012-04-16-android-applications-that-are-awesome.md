@@ -38,4 +38,3 @@ I already use this webservice on my computer and iPad. Let’s me organise my as
 
 Hopefully this list is helpful for someone, if you have any app suggestions feel free to leave a comment! I’ll do a similar round up for iPad next.
 
-</p>

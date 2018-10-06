@@ -3,7 +3,7 @@ Title: First Impressions of Windows 8
 Date: 2012-11-17 00:59
 Author: jamesleighton
 categories: Reviews
-Tags: computers reviews
+Tags: computers reviews microsoft
 Slug: first-impressions-of-windows-8
 Status: published
 ---

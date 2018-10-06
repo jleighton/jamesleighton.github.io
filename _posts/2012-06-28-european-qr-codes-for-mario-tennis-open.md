@@ -2,7 +2,7 @@
 Title: European QR Codes for Mario Tennis Open
 Date: 2012-06-28 09:26
 categories: Gaming
-tags: 3ds
+tags: 3ds mario dlc
 Slug: european-qr-codes-for-mario-tennis-open
 Status: published
 layout: post
