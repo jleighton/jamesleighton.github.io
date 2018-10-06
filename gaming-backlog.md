@@ -44,7 +44,7 @@ My gaming backlog is a massive pile of shame. Here lies the evidence; this page 
 
 {% endif %}
 
-     <div class="justified-post-content" style="text-align:justify;"> {{ post.excerpt }} </div><a href="{{ post.url }}">[ Read More ]</a>
+     <div class="justified-post-content" style="text-align:justify;"> {{ post.excerpt }} ... <a href="{{ post.url }}">[ Read More ]</a></div>
   </div>
   <div style="clear: both;"></div>
       
