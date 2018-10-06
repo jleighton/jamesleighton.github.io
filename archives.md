@@ -11,7 +11,7 @@ layout: page
         {{ post.title }}
       </a>
     </h2>
-    <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
+    <span class="post-date"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}
 
 
 
@@ -37,8 +37,7 @@ layout: page
   <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
-  </em>
+
   </span>
-</div>
-  </article>
+
 {% endfor %}
