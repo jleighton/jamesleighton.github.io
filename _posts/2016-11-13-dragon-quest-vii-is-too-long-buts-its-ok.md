@@ -1,5 +1,5 @@
 ---
-title: Dragon Quest VII is too long, but's that's OK
+title: Dragon Quest VII is too long, but that's OK
 date: 2016-11-13 21:21
 Author: jamesleighton
 categories: Gaming
