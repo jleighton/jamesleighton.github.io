@@ -7,7 +7,7 @@
           James Leighton
         </a>
       </h2>
-      <p class="lead">My blog about nothing</p>
+      <!--<p class="lead">My blog about nothing</p>-->
 
 
 <div id="social">
@@ -60,6 +60,15 @@
   </a>
 </li>
 {% endif %}
+
+{% if site.kofi_username %}
+<li>
+  <a href="https://ko-fi.com/{{ site.kofi_username }}" title="Buy me a coffee!">
+    <i class="fas fa-coffee fa-2x"></i>
+  </a>
+</li>
+{% endif %}
+
 <li>
   <a href="https://www.jamesleighton.com/feed.xml" title="RSS Feed">
     <i class="fas fa-rss fa-2x"></i>
