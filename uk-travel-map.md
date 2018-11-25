@@ -49,7 +49,7 @@ Brewdog UK Bars
 -   ~~[Newcastle](https://www.brewdog.com/bars/uk/newcastle "Newcastle")~~
 -   ~~Norwich~~
 -   ~~Nottingham~~
--   [.Sheffield](https://www.brewdog.com/bars/uk/sheffield "Sheffield")
+-   ~~[Sheffield](https://www.brewdog.com/bars/uk/sheffield "Sheffield")~~
 -   ~~Shepherd's Bush~~
 -   [Shoreditch](https://www.brewdog.com/bars/uk/shoreditch "Shoreditch")
 -   [North Street Leeds](https://www.brewdog.com/bars/uk/northstreetleeds "North Street Leeds")
