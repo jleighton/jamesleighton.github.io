@@ -18,6 +18,8 @@ It’s been a busy end of year, but I’ve made time for games.
 
 I bought a *Diablo 3* because a colleague at work bought a Switch and got it as well. We travelled for work and got the season finished. I haven’t been back since,but had a lot of fun playing through the main story and the seasonal milestones. I’ll probably go back for the next season. Playtime: 15 hours
 
+![Diablo 3](/images/diablo.jpeg)
+
 The matchup mode in *Pinball FX3* sucked me in for weeks at a times... until I didn’t own any tables to play for weeks at a time. The new Williams tables are great and I now have a FlipGrip to use next time I jump into *Pinball FX3*. Playtime: 20 hours
 
 I was given *Farming Simulator* for last Christmas and never got around to playing it. I picked it back up when I wasn’t sure what to play next. Playing around ten hours, I can say I’m pretty well done with it now. The port is decent, it’s just too feature sparse compared to the mods you can get on PC. 
