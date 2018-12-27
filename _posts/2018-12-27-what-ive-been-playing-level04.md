@@ -26,4 +26,6 @@ I was given *Farming Simulator* for last Christmas and never got around to playi
 
 Pokemon. The surprise of *Pokemon Let’s GO Pikachu* is the co-op gameplay! Whilst the game is a complete nostalgia fest, being able to play Pokemon with my wife is the star of the show. I quite like all the changes (no proper ramdom battles, the new catching system) and whilst it does not live up to the hype and memories of say gen 4 it is still an excellent Pokemon game and I'm looking forward to finishing it.
 
+![Pokemon: Let's Go Pikachu](/images/letsgo.jpeg)
+
 I've started the Year of Shame/Backlog Busting 2019 with Earthbound on Virtual Console and Pullblox on 3DS. I'll be blogging more on this in January but the TL;DR is that I can only buy two games for myself in 2019.
