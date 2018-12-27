@@ -13,8 +13,8 @@ It’s been a busy end of year, but I’ve made time for games.
 
 - Diablo 3
 - Pinball FX3
-- Farming Simutator Nintendo Switch Edition
-- Pokemon Lets Go : Pikachu
+- Farming Simulator Nintendo Switch Edition
+- Pokemon Lets Go: Pikachu
 
 I bought a *Diablo 3* because a colleague at work bought a Switch and got it as well. We travelled for work and got the season finished. I haven’t been back since,but had a lot of fun playing through the main story and the seasonal milestones. I’ll probably go back for the next season. Playtime: 15 hours
 
