@@ -7,7 +7,7 @@ permalink: /category/life/index.html
 
 
 <div class="posts">
-  {% for post in site.categories.life %}
+  {% for post in site.categories.Life %}
   <div class="post">
 
 
