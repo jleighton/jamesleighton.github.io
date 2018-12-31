@@ -16,25 +16,25 @@
   <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
 
-
+ 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-lLo2nlsdl+bHLu6PGvC2j3wfP45RnK4wKQLiPnCDcuXfU38AiD+JCdMywnF3WbJC1jaxe3lAI6AM4uJuMFBLEw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-08fc49d3bd2694c870ea23d0906f3610.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-+ZQwBfJw0+vWamxjWgu2B3g58zCABOB1yRj/kGGVcZmXuZ6wTWkVwNWaOgy285h5vdw4VuUp57FjdiVujwnkHw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-b43e758c845fa54305d34a4b97d30922.css" />
-  
-  
-  
-  
-  
+
+
+
+
+
 
   <meta name="viewport" content="width=device-width">
-  
+
   <title>jQuery-Cookies/jquery.cookies.js at master · panzi/jQuery-Cookies</title>
     <meta name="description" content="A small but powerful cookie plugin for jQuery. Contribute to panzi/jQuery-Cookies development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    
+
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/134175?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="panzi/jQuery-Cookies" /><meta property="og:url" content="https://github.com/panzi/jQuery-Cookies" /><meta property="og:description" content="A small but powerful cookie plugin for jQuery. Contribute to panzi/jQuery-Cookies development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
@@ -44,7 +44,7 @@
   <meta name="request-id" content="EBC8:46F12:205CB6A0:2EEADC68:5C2A2158" data-pjax-transient>
 
 
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -64,7 +64,7 @@
 
 
 
-  
+
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="jleighton">
@@ -77,7 +77,7 @@
   <meta name="html-safe-nonce" content="80c2c1b2811f5244f47999f812b2f101af78368d">
 
   <meta http-equiv="x-pjax-version" content="dcf479d97247df77ce4929e5f45d2480">
-  
+
 
       <link href="https://github.com/panzi/jQuery-Cookies/commits/master.atom" rel="alternate" title="Recent Commits to jQuery-Cookies:master" type="application/atom+xml">
 
@@ -106,18 +106,18 @@
   </head>
 
   <body class="logged-in env-production emoji-size-boost page-blob">
-    
+
 
   <div class="position-relative js-header-wrapper ">
     <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
-    
-    
-    
 
 
-        
+
+
+
+
 <header class="Header  f5" role="banner">
   <div class="d-flex flex-justify-between px-3 ">
     <div class="d-flex flex-justify-between ">
@@ -163,9 +163,9 @@
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
             <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-              
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -206,7 +206,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -238,7 +238,7 @@
   </a>
 </li>
 
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
@@ -295,7 +295,7 @@
               <li class="position-relative">
                 <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
                    Marketplace
-</a>                  
+</a>
               </li>
             <li>
               <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
@@ -305,11 +305,11 @@
       </nav>
 
       <div class="d-flex">
-        
+
 <ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
   <li class="dropdown">
     <span class="d-inline-block  px-2">
-      
+
     <a aria-label="You have unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:unread" data-channel="notification-changed:3452050" href="/notifications">
         <span class="mail-status unread"></span>
         <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
@@ -326,7 +326,7 @@
         <span class="dropdown-caret mt-1"></span>
       </summary>
       <details-menu class="dropdown-menu dropdown-menu-sw">
-        
+
 <a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -383,7 +383,7 @@
           <li><a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a></li>
           <li>
             <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="19iofocVpl8+3zeBs1Z7O68rDPOHDwRRKAZRBpaNLrpaI2puR0Q81/+FIpaKKnYDOhxQsAPH4UpFgbzrUzNsPg==" />
-              
+
               <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
                 Sign out
               </button>
@@ -405,7 +405,7 @@
   </div>
 </header>
 
-      
+
 
   </div>
 
@@ -420,10 +420,10 @@
   <div role="main" class="application-main " data-commit-hovercards-enabled>
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <div id="js-repo-pjax-container" data-pjax-container >
-      
 
 
-  
+
+
 
 
 
@@ -568,7 +568,7 @@
 </h1>
 
     </div>
-    
+
 <nav class="reponav js-repo-nav js-sidenav-container-pjax container"
      itemscope
      itemtype="http://schema.org/BreadcrumbList"
@@ -622,24 +622,24 @@
 <div class="container new-discussion-timeline experiment-repo-nav  ">
   <div class="repository-content ">
 
-    
-    
 
 
 
-  
+
+
+
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/panzi/jQuery-Cookies/blob/dc9badf3e0c4bdd68250c3c2d8680dc140f7bd87/jquery.cookies.js">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:3ae346fdbda86a1508423b4e1ab3002c -->
 
-    
+
 
     <div class="file-navigation">
-      
+
 <div class="select-menu branch-select-menu js-menu-container js-select-menu float-left "
   >
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    
+
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
     <i>Branch:</i>
     <span class="js-select-button css-truncate-target">master</span>
@@ -647,7 +647,7 @@
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
     <div class="select-menu-modal">
-        
+
 <div class="select-menu-header">
   <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
   <span class="select-menu-title">Switch branches/tags</span>
@@ -730,7 +730,7 @@
 
 
     <div class="file ">
-      
+
 <div class="file-header">
 
   <div class="file-actions">
@@ -769,10 +769,10 @@
   </div>
 </div>
 
-      
+
 
   <div itemprop="text" class="blob-wrapper data type-javascript ">
-      
+
 <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
@@ -1428,7 +1428,7 @@
 
     </div>
 
-  
+
 
   <details class="details-reset details-overlay details-overlay-dark">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -1450,7 +1450,7 @@
 
   </div>
 
-        
+
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
@@ -1491,13 +1491,13 @@
   </div>
 
 
-    
+
     <script crossorigin="anonymous" integrity="sha512-qj1Z4g+YDVWKElb6FC42CcUWNq8P0W9aiU0CtKWjzuEMO9tb8sbbJ48dWUkmaOIe7WlLJXkI4YsUCKMxRMxT5A==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-9ee26246cce2c45ef24accded28cdabe.js"></script>
-    
+
     <script crossorigin="anonymous" async="async" integrity="sha512-YK1qKaJaboZghfxUvkZpVcxPUUE74mJclzBlt7BcsMQp37KQFQCIjO9ySZpwS3FdiPv2pmTEs5qakCIlGRVGwA==" type="application/javascript" src="https://github.githubassets.com/assets/github-f64ad9727bd629401c830ad67cd20b4c.js"></script>
-    
-    
-    
+
+
+
   <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
     <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
@@ -1538,4 +1538,3 @@
 
   </body>
 </html>
-
