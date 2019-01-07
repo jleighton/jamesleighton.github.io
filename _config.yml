@@ -87,9 +87,11 @@ exclude:
   - CNAME
 
 feed:
-  tags:
-    - projects
-
+  collections:
+    projects:
+      path: "/projects.xml"
+      tags:
+        - projects
 
 
 url: https://www.jamesleighton.com
