@@ -2,9 +2,9 @@
 title: What I've been playing - Level 4
 date: 2018-12-27 15:45
 author: jamesleighton
-categories: Backlog
-tags: switch Diablo citiesskylines Pokemon 
-Slug: what-ive-been-playing-level-4
+categories: Gaming
+tags: switch Diablo citiesskylines Pokemon backlog
+slug: what-ive-been-playing-level-4
 Status: published
 image: /images/joycon.jpg
 ---
@@ -22,7 +22,7 @@ I bought a *Diablo 3* because a colleague at work bought a Switch and got it as 
 
 The matchup mode in *Pinball FX3* sucked me in for weeks at a times... until I didn’t own any tables to play for weeks at a time. The new Williams tables are great and I now have a FlipGrip to use next time I jump into *Pinball FX3*. Playtime: 20 hours
 
-I was given *Farming Simulator* for last Christmas and never got around to playing it. I picked it back up when I wasn’t sure what to play next. Playing around ten hours, I can say I’m pretty well done with it now. The port is decent, it’s just too feature sparse compared to the mods you can get on PC. 
+I was given *Farming Simulator* for last Christmas and never got around to playing it. I picked it back up when I wasn’t sure what to play next. Playing around ten hours, I can say I’m pretty well done with it now. The port is decent, it’s just too feature sparse compared to the mods you can get on PC.
 
 Pokemon. The surprise of *Pokemon Let’s GO Pikachu* is the co-op gameplay! Whilst the game is a complete nostalgia fest, being able to play Pokemon with my wife is the star of the show. I quite like all the changes (no proper ramdom battles, the new catching system) and whilst it does not live up to the hype and memories of say gen 4 it is still an excellent Pokemon game and I'm looking forward to finishing it.
 

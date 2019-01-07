@@ -2,9 +2,9 @@
 title: What I've been playing - Level 3
 date: 2018-06-09 15:45
 author: jamesleighton
-categories: Backlog
-tags: 3ds backlog coop nintendo pokemon switch zelda oxenfree football-manager powgi
-Slug: what-ive-been-playing-level-3
+categories: Gaming
+tags: 3ds backlog coop nintendo pokemon switch zelda oxenfree football-manager powgi backlog
+slug: what-ive-been-playing-level-3
 Status: published
 image: /images/powgi.png
 ---
@@ -68,4 +68,3 @@ My Hitlist for the next few months. Pretty heavily 3DS biased, because it's gath
 -   Pullblox (3DS)
 -   Mario Tennis Open (3DS)
 -   Luigi's Mansion 2 (3DS)
-

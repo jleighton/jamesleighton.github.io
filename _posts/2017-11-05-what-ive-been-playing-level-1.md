@@ -2,8 +2,8 @@
 title: What I've Been Playing - Level 1
 Date: 2017-11-05 16:30
 Author: jamesleighton
-categories: Backlog
-tags: games mario stardew switch
+categories: Gamin g
+tags: games mario stardew switch backlog
 Slug: what-ive-been-playing-level-1
 Status: published
 Layout: post
