@@ -21,7 +21,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
   <div class="card2">
   <div class="container2">
 <a href="{{ post.url }}" title="{{ post.title }}">
-    <img src="{{ post.image }}" alt="{{ post.title }}">
+    <img src="{{ post.image }}" alt="{{ post.title }} style="width:100%;">
     {{ post.title}}</a>
   </div>
   </div>
