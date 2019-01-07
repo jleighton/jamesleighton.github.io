@@ -23,11 +23,22 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 <a href="{{ post.url }}" title="{{ post.title }}">
     <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
     {{ post.title}}</a>
-    <i class="fas fa-tags"></i>
-    {% for tag in post.tags %}
-    <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+  <i class="fas fa-tags"></i>
+  {% for tag in tags %}
+  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+
+
+
+
+
+
   </div>
   </div>
     {% endfor %}
