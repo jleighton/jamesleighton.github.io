@@ -11,6 +11,37 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 <div class="posts">
 <h3>What I've Been Playing</h3>
+
+<div class="row_card">
+
+  <div class="column_card">
+    {% for post in site.tags.backlog %}
+    <div class="card">
+
+
+    {% for post in site.tags.backlog %}
+
+  <div class="card"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title}}</a></div>
+
+    {% endfor %}
+
+
+
+    </div>
+      {% endfor %}
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 <ul>
   {% for post in site.tags.backlog %}
 
