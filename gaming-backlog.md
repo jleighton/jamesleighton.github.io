@@ -30,11 +30,12 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
         {% else %}
           {% assign tags = page.tags %}
         {% endif %}<br />
-      <i class="fas fa-tags"></i>
+      <i class="fas fa-tags"></i><span style="font-size: 80%;">
       {% for tag in tags %}
+
       <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
+        {% endfor %}</span>
 
     </div>
   </div>

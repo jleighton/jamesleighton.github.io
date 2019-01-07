@@ -74,7 +74,7 @@ body {
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 50%;
+  width: 49%;
   padding: 0 10px;
 }
 
@@ -100,7 +100,7 @@ body {
 /* Style the counter cards */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
+  padding: 10px;
   text-align: center;
   background-color: #f1f1f1;
   margin-bottom: 10px;
