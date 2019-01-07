@@ -6,7 +6,7 @@ categories: Gaming
 tags: switch diablo citiesskylines pokemon backlog
 slug: what-ive-been-playing-level-4
 Status: published
-image: /images/joycon.jpg
+image: /images/letsgo.jpg
 ---
 
 It’s been a busy end of year, but I’ve made time for games.

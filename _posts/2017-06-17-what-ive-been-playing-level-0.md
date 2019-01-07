@@ -7,7 +7,7 @@ tags: 3ds backlog dq-heroes f1-2016 ps4 switch zelda
 Slug: what-ive-been-playing-level-0
 Status: published
 Layout: post
-image: /images/joycon.jpg
+image: /images/538567.jpg
 ---
 
 

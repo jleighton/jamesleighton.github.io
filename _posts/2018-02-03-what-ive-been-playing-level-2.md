@@ -7,7 +7,7 @@ tags: backlog golf-story mario-rabbids skyrim stardew-valley switch
 slug: what-ive-been-playing-level-2
 Status: published
 Layout: post
-image: /images/joycon.jpg
+image: /images/psx_20180203_005044.jpg
 ---
 
 It's been a while since my last blog post... I've been busy with work, the gym... and... playing lots of games! Here's a run down of that last activity.
@@ -45,11 +45,11 @@ Did I mention it has ~~frisbee~~ disc golf, and mini golf alongside the normal g
 
 ![](images/2018/02/golf-story.jpg)
 
-###
+
 
 ![](images/smartselectimage_2018-02-02-23-38-16.jpg)
 
-</h3>
+
 ### **What I am playing now**
 
 I'm currently stuck into Mario + Rabbids battle kingdom which is seriously catering to my addiction to turn based strategy games.
