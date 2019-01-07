@@ -3,7 +3,7 @@ Title: Backlogs and Buying New Games....
 Date: 2013-02-17 09:40
 Author: jamesleighton
 categories: Gaming
-tags: 3ds backlog challenges steam vita
+tags: 3ds challenges steam vita
 Slug: backlogs-and-buying-new-games
 Status: published
 ---

@@ -3,17 +3,17 @@ title: Dragon Quest VII is too long, but that's OK
 date: 2016-11-13 21:21
 Author: jamesleighton
 categories: Gaming
-tags: 3ds backlog jrpg dragonquest
+tags: 3ds jrpg dragonquest
 Status: published
 ---
 
-I really want to love [Dragon Quest VII](http://amzn.to/2gcpTx4), but I don't have the time right now to do it justice and it upsets me. I've finished Dragon 
+I really want to love [Dragon Quest VII](http://amzn.to/2gcpTx4), but I don't have the time right now to do it justice and it upsets me. I've finished Dragon
 Quest IV & V for the 3DS and I jumped head first into this one when it came out in September because it seemed right up my alley.
 
 ![1eb3348f-72ac-45cb-b994-943045754614-705-0000006924f2a4fc\_tmp](https://jamesleighton.files.wordpress.com/2016/11/1eb3348f-72ac-45cb-b994-943045754614-705-0000006924f2a4fc_tmp.jpg)
 
 
-Going back to it, I can see this is a quintessential JRPG from an age when longer meant better. Unfortunately, my play style doesn't match this anymore... It 
+Going back to it, I can see this is a quintessential JRPG from an age when longer meant better. Unfortunately, my play style doesn't match this anymore... It
 seems I prefer shorter RPGs, puzzle games, and racing games these days. I guess this matches the time I can invest into games!
 
 https://twitter.com/jackal27/status/785882803455995905
