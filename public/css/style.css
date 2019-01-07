@@ -79,7 +79,9 @@ body {
 }
 
 /* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
+.row {margin: 0 -5px;
+	display: table; /* Make the container element behave like a table */
+	width: 100%; /* Set full-width to expand the whole page */}
 
 /* Clear floats after the columns */
 .row:after {
@@ -104,6 +106,7 @@ body {
   text-align: center;
   background-color: #f1f1f1;
   margin-bottom: 10px;
+	display: table-cell; /* Make elements inside the container behave like table cells */
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
