@@ -27,7 +27,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
       {% assign tags = post.tags %}
     {% else %}
       {% assign tags = page.tags %}
-    {% endif %}
+    {% endif %}<br />
   <i class="fas fa-tags"></i>
   {% for tag in tags %}
   <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
