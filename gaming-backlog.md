@@ -37,7 +37,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
       <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}</span>
-
+        {{ post.content | strip_html | truncatewords: 25 }}
       </div>
 
 
