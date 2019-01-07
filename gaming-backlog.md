@@ -9,7 +9,7 @@ My gaming backlog is a massive pile of shame. A game is classed as 'beaten' eith
 
 I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up to date, and post semi regular blog posts about my progress through the backlog.
 
-<div class="posts">
+
 <h3>What I've Been Playing</h3>
 
 
@@ -17,11 +17,12 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 
   <div class="row">
+  {% for post in site.tags.backlog %}
 
   <div class="column">
-{% for post in site.tags.backlog %}
-    <div class="card">
 
+
+    <div class="card">
     <a href="{{ post.url }}" title="{{ post.title }}">
         <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
         {{ post.title}}</a>
@@ -37,10 +38,10 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
         {% unless forloop.last %}&nbsp;{% endunless %}
         {% endfor %}</span>
 
-    </div>
-  </div>
+      </div>
 
-{% endfor %}
-</div>
+
+  </div>
+  {% endfor %}
 
 </div>
