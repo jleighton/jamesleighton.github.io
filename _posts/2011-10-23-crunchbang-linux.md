@@ -6,6 +6,7 @@ categories: linux
 tags: crunchbang dropbox pogoplug software switching projects
 Slug: crunchbang-linux
 Status: published
+image: /images/crunchbang-logo300.png
 ---
 
 I've made space on my PC this week for Linux, in particular [Crunchbang](http://crunchbanglinux.org/ "Crunchbang Linux"). I still dual boot into Windows for games, and currently for Skype as it doesn't seem to like my microphone very much. Other than that, everything set itself up with minimal fuss. The installer asked if I wanted OpenOffice, and Dropbox took a minor bit of configuration to get going but seems to be pretty stable. Popoplug took a little more configuration but not more than about five minutes and now it starts itself automatically on login.
