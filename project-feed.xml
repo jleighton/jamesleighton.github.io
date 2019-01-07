@@ -15,7 +15,7 @@ layout: null
    <email>projects@jamesleighton.com</email>
  </author>
 
- {% for post in site.categories.Projects %}
+ {% for post in site.tags.projects %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
