@@ -19,9 +19,10 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
     {% for post in site.tags.backlog %}
   <div class="card2">
-  <div class="container2"
+  <div class="container2">
+<a href="{{ post.url }}" title="{{ post.title }}">
     <img src="{{ post.image }}" alt="{{ post.title }}">
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title}}</a>
+    {{ post.title}}</a>
   </div>
   </div>
     {% endfor %}
