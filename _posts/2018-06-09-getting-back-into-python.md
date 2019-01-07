@@ -1,7 +1,7 @@
 ---
 Title: Getting back into Python
 categories: Coding
-tags: python coding
+tags: python coding projects
 Slug: getting-back-into-python
 layout: post
 image: /images/python-logo-master-v3-tm-flattened.png

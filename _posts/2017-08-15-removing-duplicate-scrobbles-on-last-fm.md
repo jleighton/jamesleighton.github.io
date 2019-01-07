@@ -2,7 +2,7 @@
 Title: Removing Duplicate Scrobbles on Last.fm
 Date: 2017-08-15 19:30
 categories: How-To
-tags: lastfm spotfy
+tags: lastfm spotify projects
 Slug: removing-duplicate-scrobbles-on-last-fm
 Status: published
 ---
