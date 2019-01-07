@@ -105,3 +105,12 @@ body {
   background-color: #f1f1f1;
   margin-bottom: 10px;
 }
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
