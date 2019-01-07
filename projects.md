@@ -1,5 +1,5 @@
 ---
-title: Gaming Backlog
+title: Projects
 layout: page
 ---
 
@@ -17,7 +17,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 
   <div class="row">
-  {% for post in site.tags.backlog %}
+  {% for post in site.tags.projects %}
   <div class="column">
 
     <div class="card">
