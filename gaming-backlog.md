@@ -12,71 +12,34 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 <div class="posts">
 <h3>What I've Been Playing</h3>
 
-<div class="row_card">
-
-  <div class="column_card">
-
-
-    {% for post in site.tags.backlog %}
-  <div class="card2">
-  <div class="container2">
-<a href="{{ post.url }}" title="{{ post.title }}">
-    <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
-    {{ post.title}}</a>
-    {% if post %}
-      {% assign tags = post.tags %}
-    {% else %}
-      {% assign tags = page.tags %}
-    {% endif %}<br />
-  <i class="fas fa-tags"></i>
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
 
 
 
-
-
-
-  </div>
-  </div>
-    {% endfor %}
-
-  </div>
 
   <div class="row">
+  {% for post in site.tags.backlog %}
   <div class="column">
+
     <div class="card">
-      <h3>Card 1</h3>
-      <p>Some text</p>
-      <p>Some text</p>
+
+    <a href="{{ post.url }}" title="{{ post.title }}">
+        <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
+        {{ post.title}}</a>
+        {% if post %}
+          {% assign tags = post.tags %}
+        {% else %}
+          {% assign tags = page.tags %}
+        {% endif %}<br />
+      <i class="fas fa-tags"></i>
+      {% for tag in tags %}
+      <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <h3>Card 2</h3>
-      <p>Some text</p>
-      <p>Some text</p>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <h3>Card 3</h3>
-      <p>Some text</p>
-      <p>Some text</p>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <h3>Card 4</h3>
-      <p>Some text</p>
-      <p>Some text</p>
-    </div>
-  </div>
+{% endfor %}
 </div>
 
 </div>
