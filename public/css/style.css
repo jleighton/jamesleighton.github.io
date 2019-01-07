@@ -26,38 +26,6 @@ display: block;
 #responsive-image {  width: 75%;  height: auto; }
 
 
-.card2 {
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
-	width: 50%;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.container2 {
-  padding: 2px 8px;
-}
-
-.column_card {
-  float: left;
-  width: 50%;
-  padding: 0 10px;
-}
-
-
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-  .column_card {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
-}
-
 
 
 
@@ -71,7 +39,7 @@ display: block;
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 45%;
+  width: 49%;
   padding: 0 5px;
 }
 
@@ -98,7 +66,7 @@ display: block;
 /* Style the counter cards */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  padding: 10px;
+  padding: 5px;
   text-align: center;
   background-color: #f1f1f1;
   margin-bottom: 10px;
@@ -110,6 +78,6 @@ display: block;
   .column {
     width: 100%;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }

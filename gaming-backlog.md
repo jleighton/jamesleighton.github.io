@@ -17,9 +17,9 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 
   <div class="row">
-  {% for post in site.tags.backlog %}
-  <div class="column">
 
+  <div class="column">
+{% for post in site.tags.backlog %}
     <div class="card">
 
     <a href="{{ post.url }}" title="{{ post.title }}">
@@ -30,7 +30,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
         {% else %}
           {% assign tags = page.tags %}
         {% endif %}<br />
-      <span style="font-size: 80%;"><i class="fas fa-tags"></i>
+      <span style="font-size: 75%;"><i class="fas fa-tags"></i>
       {% for tag in tags %}
 
       <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
