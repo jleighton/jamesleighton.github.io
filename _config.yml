@@ -86,10 +86,10 @@ exclude:
   - README.md
   - CNAME
 
-#feed:
- # collections:
-  #    Projects:
-   #     path: "/projects.xml"
+feed:
+  tags:
+    - projects
+
 
 
 url: https://www.jamesleighton.com
