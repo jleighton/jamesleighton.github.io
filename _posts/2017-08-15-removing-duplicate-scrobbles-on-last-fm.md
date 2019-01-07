@@ -5,7 +5,7 @@ categories: How-To
 tags: lastfm spotify projects
 slug: removing-duplicate-scrobbles-on-last-fm
 Status: published
-images: /images/lastfm.png
+image: /images/screen-shot-2017-08-15-at-20-29-16.png
 ---
 
 So, my last.fm account/spotify went mental last week and logged a single song 1000 times in a row. Since Last.fm is currently in the throes of dying and removing every last useful feature from their site, I was wondering how I could fix this.
