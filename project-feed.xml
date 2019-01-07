@@ -22,7 +22,8 @@ layout: null
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.excerpt | xml_escape }}</content>
-   <image>{{ site.url }}/{{ post.image }}</image>
+   <image>{{ site.url }}{{ post.image }}</image>
+   <media_thumbnail>{{ site.url }}{{ post.image }}</media_thumbnail>
  </entry>
  {% endfor %}
 
