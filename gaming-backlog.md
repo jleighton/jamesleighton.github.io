@@ -18,41 +18,12 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 
     {% for post in site.tags.backlog %}
-
-  <div class="card"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title}}</a></div>
-
+  <div class="card">
+    <img src="{{ post.image }}" alt="{{ post.title }}">
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title}}</a></div>
+  </div>
     {% endfor %}
 
-
-
-    </div>
-
   </div>
 
-</div>
-
-
-
-
-
-
-
-
-
-
-<ul>
-  {% for post in site.tags.backlog %}
-
-<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title}}</a></li>
-
-  {% endfor %}
-  </ul>
-</div>
-
-
-<div class="w3-card-4">
-  <img src="https://www.jamesleighton.com/images/joycon.jpg" alt="Norway">
-  <div class="w3-container w3-center">
-    <p>The Italian / Austrian Alps</p>
-  </div>
 </div>
