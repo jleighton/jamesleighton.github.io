@@ -3,7 +3,7 @@ title: What I've been playing - Level 3
 date: 2018-06-09 15:45
 author: jamesleighton
 categories: Gaming
-tags: 3ds backlog coop nintendo pokemon switch zelda oxenfree football-manager powgi backlog
+tags: 3ds backlog coop nintendo pokemon switch zelda oxenfree football-manager powgi
 slug: what-ive-been-playing-level-3
 Status: published
 image: /images/powgi.png

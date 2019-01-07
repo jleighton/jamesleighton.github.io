@@ -3,7 +3,7 @@ title: What I've been playing - Level 4
 date: 2018-12-27 15:45
 author: jamesleighton
 categories: Gaming
-tags: switch Diablo citiesskylines Pokemon backlog
+tags: switch diablo citiesskylines pokemon backlog
 slug: what-ive-been-playing-level-4
 Status: published
 image: /images/joycon.jpg

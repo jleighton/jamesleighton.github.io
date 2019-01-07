@@ -3,7 +3,7 @@ title: What I've been playing - Level 2
 Date: 2018-02-03 00:51
 Author: jamesleighton
 categories: Gaming
-tags: backlog golf-story mario-rabbids skyrim stardew-valley switch backlog
+tags: backlog golf-story mario-rabbids skyrim stardew-valley switch
 slug: what-ive-been-playing-level-2
 Status: published
 Layout: post
