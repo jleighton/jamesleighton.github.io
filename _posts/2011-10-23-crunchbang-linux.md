@@ -1,9 +1,9 @@
 ---
-Title: Crunchbang Linux
+title: Crunchbang Linux
 Date: 2011-10-23 16:38
-Author: jamesleighton
+author: jamesleighton
 categories: linux
-Tags: crunchbang dropbox pogoplug software switching
+tags: crunchbang dropbox pogoplug software switching projects
 Slug: crunchbang-linux
 Status: published
 ---
