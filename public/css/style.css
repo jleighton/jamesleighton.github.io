@@ -41,3 +41,9 @@ display: block;
 .container2 {
   padding: 2px 8px;
 }
+
+.column_card {
+  float: left;
+  width: 50%;
+  padding: 0 10px;
+}
