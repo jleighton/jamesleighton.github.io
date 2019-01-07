@@ -15,8 +15,6 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 <div class="row_card">
 
   <div class="column_card">
-    {% for post in site.tags.backlog %}
-    <div class="card">
 
 
     {% for post in site.tags.backlog %}
@@ -28,7 +26,7 @@ I will try and keep my [Backloggery](http://backloggery.com/ZombieUnicorn/) up t
 
 
     </div>
-      {% endfor %}
+
   </div>
 
 </div>
