@@ -25,7 +25,7 @@ Here is the archive of my projects. They range from programming, to electronics,
     <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}</span>
-      {{ post.content | strip_html | truncatewords: 25 }}
+      <br />{{ post.content | strip_html | truncatewords: 25 }}
     </div>
 {% endfor %}
 </div>
