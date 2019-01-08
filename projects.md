@@ -6,7 +6,7 @@ Here is the archive of my projects. They range from programming, to electronics,
 
 <div class="row">
 
-
+.
 <div class="column">
 {% for post in site.tags.projects %}
 
