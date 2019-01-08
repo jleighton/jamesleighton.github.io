@@ -5,10 +5,10 @@ layout: page
 Here is the archive of my projects. They range from programming, to electronics, 3D printing, and more.
 
 <div class="row">
-{% for post in site.tags.projects %}
+
 
 <div class="column">
-
+{% for post in site.tags.projects %}
 
   <div class="card">
   <a href="{{ post.url }}" title="{{ post.title }}">
@@ -27,8 +27,8 @@ Here is the archive of my projects. They range from programming, to electronics,
       {% endfor %}</span>
       {{ post.content | strip_html | truncatewords: 25 }}
     </div>
-
-</div>
 {% endfor %}
+</div>
+
 
 </div>
