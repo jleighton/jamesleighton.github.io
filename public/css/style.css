@@ -39,7 +39,7 @@ display: block;
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 45%;
+  width: 75%;
   padding: 0 5px;
 
 }
