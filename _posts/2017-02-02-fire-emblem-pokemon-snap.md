@@ -10,7 +10,7 @@ Status: published
 
 What does Fire Emblem Fates: Birthright & Pokémon Snap have in common? I completed them both last week!
 
-[![fates-birthright](https://jamesleighton.files.wordpress.com/2017/02/fates-birthright.jpg){.alignnone .size-full .wp-image-825 width="818" height="423"}](http://amzn.to/2l7UOwo)
+[![fates-birthright](https://jamesleighton.files.wordpress.com/2017/02/fates-birthright.jpg){:class="img-fluid"}
 
 Two more games off the backlog! The girlfriend and I played Pokemon Snap to the credits in one sitting, and I completed [FE Fates Birthright](http://amzn.to/2l7UOwo) on super easy n00b mode.
 
@@ -18,7 +18,7 @@ Whatever... I am not ashamed, I was totally just playing for the story! Plus, I 
 
 I enjoyed playing Fates on super-scrub mode, but I won't be going back any time soon.
 
-![Pokemon Snap title screen](https://jamesleighton.files.wordpress.com/2017/02/snap.jpg){.alignnone .size-full .wp-image-832 width="608" height="459"}
+![Pokemon Snap title screen](https://jamesleighton.files.wordpress.com/2017/02/snap.jpg){:class="img-fluid"}
 
 Pokémon Snap was an awesome game. I genuinely don't know why we didn't play it sooner. We got to the credits in about 4 hours and caught about 95% of the Pokémon in the game. Thoughts include: 'WHY HASN'T NINTENDO MADE POKEMON SNAP 2!!!!!!', and 'FUCK YOU OAK! THAT PHOTO WAS AMAZING'. Great game!
 

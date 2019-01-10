@@ -18,7 +18,7 @@ It’s been a busy end of year, but I’ve made time for games.
 
 I bought a *Diablo 3* because a colleague at work bought a Switch and got it as well. We travelled for work and got the season finished. I haven’t been back since,but had a lot of fun playing through the main story and the seasonal milestones. I’ll probably go back for the next season. Playtime: 15 hours
 
-![Diablo 3](/images/diablo.jpeg)
+![Diablo 3](/images/diablo.jpeg){:class="img-fluid"}
 
 The matchup mode in *Pinball FX3* sucked me in for weeks at a times... until I didn’t own any tables to play for weeks at a time. The new Williams tables are great and I now have a FlipGrip to use next time I jump into *Pinball FX3*. Playtime: 20 hours
 
@@ -26,6 +26,6 @@ I was given *Farming Simulator* for last Christmas and never got around to playi
 
 Pokemon. The surprise of *Pokemon Let’s GO Pikachu* is the co-op gameplay! Whilst the game is a complete nostalgia fest, being able to play Pokemon with my wife is the star of the show. I quite like all the changes (no proper ramdom battles, the new catching system) and whilst it does not live up to the hype and memories of say gen 4 it is still an excellent Pokemon game and I'm looking forward to finishing it.
 
-![Pokemon: Let's Go Pikachu](/images/letsgo.jpg)
+![Pokemon: Let's Go Pikachu](/images/letsgo.jpg){:class="img-fluid"}
 
 I've started the Year of Shame/Backlog Busting 2019 with Earthbound on Virtual Console and Pullblox on 3DS. I'll be blogging more on this in January but the TL;DR is that I can only buy two games for myself in 2019.

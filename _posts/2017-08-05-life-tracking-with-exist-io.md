@@ -11,7 +11,7 @@ Slug: life-tracking-with-exist-io
 ---
 I've built up quite a collection of health and fitness apps over the last few years. MyFitnessPal (MFP) tracks my eating habits, Withings tracks my weight, my Apple Watch monitors my heart rate & my activities.
 
-![Life Tracking Flow](/images/life-tracking-flow-2.png)
+![Life Tracking Flow](/images/life-tracking-flow-2.png){:class="img-fluid"}
 
 All that data! So many apps to view it all. Well, not really. Thanks to Apple Health and everything starting to talk to each other, all these disparate services can share their wealth of data with each other.
 
@@ -25,7 +25,7 @@ They encourage you to do that little bit more, stand up that little bit longer, 
 
 The Apple Watch also passively monitors your heart rate all the time you are wearing it. All these data points feed directly into the Apple Health app without any intervention, making it super easy to track just how much or little you do in a day.
 
-[![Apple Watch Activity Tracking Overview](/images/screen-shot-2017-08-05-at-17-59-17.png)](https://support.apple.com/en-gb/HT204517)
+[![Apple Watch Activity Tracking Overview](/images/screen-shot-2017-08-05-at-17-59-17.png)](https://support.apple.com/en-gb/HT204517){:class="img-fluid"}
 
 The final piece of hardware I have is an old set of [Withings wifi scales](http://amzn.to/2v8Zg0N).(Withings was bought by Nokia, so these are now branded as Nokia...)
 
@@ -33,27 +33,27 @@ Jump on these in the morning (... after your morning ablutions..) and your weigh
 
 
 
-[![wifi-scale](/images/wifi-scale.jpg)](http://amzn.to/2v9pPTH) [Nokia/Withings Smart Scales](http://amzn.to/2v9pPTH)
+[![wifi-scale](/images/wifi-scale.jpg)](http://amzn.to/2v9pPTH) [Nokia/Withings Smart Scales](http://amzn.to/2v9pPTH){:class="img-fluid"}
 
 The thing that really ties together all my data is a dashboard called [Exist](https://exist.io/?referred_by=jamesleighton). It connects to pretty much everything I care about... (Withings, RescueTime, DarkSky, Last.Fm, Google Calendar, Apple Health) and displays my data with averages, trends, and predictions.
 
 If you sign up for a [trial of Exist with my link](https://exist.io/?referred_by=jamesleighton), you get an extra month for free (two months total!) so its worth checking out if you are at all interested in the data you generate every single day.
 
-\[caption id="" align="alignnone" width="2328"\]![Screen Shot 2017-08-05 at 18.15.20.png](/images/screen-shot-2017-08-05-at-18-15-20.png)
+![Screen Shot 2017-08-05 at 18.15.20.png](/images/screen-shot-2017-08-05-at-18-15-20.png){:class="img-fluid"}
 
 I can see at a glance I walk about less on Saturdays, but I complete more workouts on Friday & Saturday. Basically, I sit at home most Saturdays, but I go to the gym more often then too. I can see via RescueTime I am more productive on Wednesdays and that Tuesdays are a shocker for me.
 
-![Screen Shot 2017-08-05 at 18.13.37.png](/images/screen-shot-2017-08-05-at-18-13-37.png)
+![Screen Shot 2017-08-05 at 18.13.37.png](/images/screen-shot-2017-08-05-at-18-13-37.png){:class="img-fluid"}
 
 The sleep tracking I do my via Apple Watch feeds in, and shows me last night I slept for the longest I have in a month. I was obviously feeling lazy this morning! I can see my average bedtime of 11.25pm is 21 minutes earlier than normal and I've been waking up later. Maybe I could get up sooner and go to the damn gym instead?
 
 It will even work out ways to optimise for more steps, or active minutes etc. For example, when it doesn't 'rain or snow' my average steps go up by 19% or when my average heart rate is above 85bpm it goes up 54% (because I logged a workout!)
 
-![Screen Shot 2017-08-05 at 18.25.03.png](/images/screen-shot-2017-08-05-at-18-25-03.png)
+![Screen Shot 2017-08-05 at 18.25.03.png](/images/screen-shot-2017-08-05-at-18-25-03.png){:class="img-fluid"}
 
 Some correlations are less useful... apparently I weigh less on days when its windier...? after I get fewer likes on Instagram...? Yup, the trick to weight loss is obvious now... post junk on Instagram on windy days! The longer Exist collects data, the more useful it gets. I really like seeing the randomness of things I do mapped out on a graph, suddenly everything isn't so random.
 
-![Screen Shot 2017-08-05 at 18.23.42.png](/images/screen-shot-2017-08-05-at-18-23-42.png)
+![Screen Shot 2017-08-05 at 18.23.42.png](/images/screen-shot-2017-08-05-at-18-23-42.png){:class="img-fluid"}
 
 Overall, [Exist](https://exist.io/?referred_by=jamesleighton)is working really well for me. The cost is basically 2 pints a month (US\$6/month) but I am getting so much use out of my health data being visualised in such a decent way its been totally worth it for me.
 

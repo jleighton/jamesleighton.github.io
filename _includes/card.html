@@ -1,0 +1,51 @@
+<div class="col-md-4">
+  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 27}}</a></h3>
+  <a href="{{ post.url }}" title="{{ post.title }}">
+
+
+    {% if post.image %}
+<img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
+    {% else %}
+
+
+
+
+    {% endif %}
+
+
+
+
+
+
+
+
+
+  </a>
+  <p class="badge badge-primary">Posted on {{ post.date | date: "%Y-%m-%d" }}</p>
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+ <p class="badge badge-primary"><a class="badge-white-text-link" href="{{site.baseurl}}category/{{category|downcase}}/">{{category}}</a></p>
+{% endfor %}
+
+
+
+  <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+
+<p>
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+  {% for tag in tags %}
+  <span class="badge">
+    <a href="{{site.baseurl}}tags/#{{tag|slugize}}">{{ tag }}</a>
+  </span>
+  {% endfor %}
+</p>
+
+</div>

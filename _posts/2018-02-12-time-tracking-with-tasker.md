@@ -11,13 +11,13 @@ image: /images/clock.jpg
 
 I listen to the podcast Cortex when I'm driving, and they got me interesting in looking up time tracking and how maybe this would benefit me. I already use [Rescuetime with Exist](http://jamesleighton.com/2017/08/05/life-tracking-with-exist-io/) as a measure of sleep, productivity, social media posts, and other things that correlate to these like the weather, the length of the day, and more. It's pretty neat and I look at it several times a week.
 
- ![Photo of clock](/images/clock.jpg){:class="responsive-image"}
+ ![Photo of clock](/images/clock.jpg){:class="img-fluid"}
 
 One metric it misses is driving time. As someone who drove 17,000 miles in the last 12 months for work this is pretty key to me. Apparently [rescuetime can do it with an expensive add on,](https://blog.rescuetime.com/new-integration-with-automatic-track-your-driving-time-like-your-computer-time/) but that only works in the US so that's no good.
 
 I had a look through the rest of the Exist integrations and nothing really supports what I want. So, I've found another way of recording this information directly. Sadly it won't be with the rest of my Exist data but aTimeLogger generates its own fancy graphs and allows me to export the data to standard formats.
 
-![Screenshot of aTimeLogger](/images/screenshot_smartselect_2018-02-12-13-45-24.jpg?w=1288)
+![Screenshot of aTimeLogger](/images/screenshot_smartselect_2018-02-12-13-45-24.jpg?w=1288){:class="img-fluid"}
 
 Android Auto --&gt; [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en_GB) --&gt; [aTimeLogger](http://www.atimelogger.com/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,7 +52,7 @@ The stop driving task is pretty much the same, but A2 is reversed so it's Stop d
 
 Now you need to create some profiles that trigger based on Android Auto being active or not. The best way I found to do this was checking the variable %UIMODE and seeing if it was set to 'car' or not. This is set by Android Auto so its a good indicator as to whether I am in the car or not! Maybe there's a better way but this works for me.  Let me know in the comments?
 
-![Screenshot\_20180212-140517](/images/screenshot_20180212-140517.jpg)
+![Screenshot\_20180212-140517](/images/screenshot_20180212-140517.jpg){:class="img-fluid"}
 
     Profile: Car Active (7)
         State: Variable Value  [ %UIMODE ~ car ]

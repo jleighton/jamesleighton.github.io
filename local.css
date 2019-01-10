@@ -1,0 +1,26 @@
+html { font-size: 100%; }
+
+
+.tag-jl {
+
+  color: #FFF;
+}
+
+
+.bg {
+  /* The image used */
+  background-image: url("/images/images/5C8B6504-2.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+a.badge-white-text-link{
+  color: #FFF;
+}

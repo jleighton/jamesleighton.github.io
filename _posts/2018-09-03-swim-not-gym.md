@@ -11,7 +11,7 @@ I tried the gym. I hate the gym. I keep trying, but it’s always awful!
 This time, I joined the local leisure centre. This is better. The pool brings back nostalgia from my childhood. I used to be a pretty decent swimmer when I was
 a kid. Not so much anymore, but it’s a nice memory.
 
-![Swimming Pool](/images/swimmingpool.jpg){:class="responsive-image"}
+![Swimming Pool](/images/swimmingpool.jpg){:class="img-fluid"}
 
 The first time my wife and I went swimming sucked. I managed ten 25 metre lengths. We went again the next day and I managed an extra two lengths. But I was
 enjoying it.

@@ -2,99 +2,161 @@
 layout: default
 ---
 
-<div class="post">
-  <a href="{{ post.url }}"><h1 class="post-title">{{ page.title }}</h1></a>
-    <em><span class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date_to_string }}
+<div class="container">
 
+  <div class="row">
 
+    <!-- Post Content Column -->
+    <div class="col-lg-8">
 
-    {% if post %}
-      {% assign categories = post.categories %}
-    {% else %}
-      {% assign categories = page.categories %}
-    {% endif %}
-    <i class="far fa-folder-open"></i>
-    {% for category in categories %}
-     <a href="{{site.baseurl}}/category/{{category|downcase}}/">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
+      <!-- Title -->
+      <h1 class="mt-4">{{ page.title }}</h1>
 
+      <!-- Author -->
 
-    {% if post %}
-      {% assign tags = post.tags %}
-    {% else %}
-      {% assign tags = page.tags %}
-    {% endif %}
-  <i class="fas fa-tags"></i>
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
-  </em>
-  </span>
+      <hr>
 
-<div style="text-align:justify;"
+      <!-- Date/Time -->
+      <p class="badge badge-primary">Posted on {{ page.date | date: "%Y-%m-%d" }}</p>
+<p class="badge badge-primary">{{ page.content | number_of_words }} words</p>
+      <hr>
+      <!-- `breadcrumb` -->
 
-
-  {{ content }}
-
-</div>
-
-
-
-
-</div>
-<p style="text-align: left;">
-<div data-social-share-privacy='true'></div>
-</p>
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#46b798', 'I2I1KINA');kofiwidget2.draw();</script>
-
-
-
-
-
-<div class="relatedPosts">
-
-<h4>You May Also Enjoy</h4>
-
-{% assign maxRelated = 4 %}
-{% assign minCommonTags =  1 %}
-{% assign maxRelatedCounter = 0 %}
-
-  {% for post in site.posts %}
-
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
-
-    {% for tag in post.tags %}
-      {% if post.url != page.url %}
-        {% if page.tags contains tag %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
-        {% endif %}
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
       {% endif %}
-    {% endfor %}
 
-    {% if sameTagCount >= minCommonTags %}
-      <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a><i class="fas fa-tags"></i>{{ commonTags }}</a>({{ post.date | date: '%Y' }})</h5>
+      <nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}">Home</a></li>
+      {% for category in categories %}
+    <li class="breadcrumb-item">    <a href="{{site.baseurl}}category/{{category|downcase}}/">{{category}}</a></li>
+    {% endfor %}
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+      <hr>
+
+      <!-- Post Content -->
+{{ content }}
+
+
+      <hr>
+
+      <!-- Comments Form -->
+      <!-- utterances -->
+
+
+
+
+    </div>
+
+    <!-- Sidebar Widgets Column -->
+    <div class="col-md-4">
+
+      <!-- Search Widget
+      <div class="card my-4">
+        <h5 class="card-header">Search</h5>
+        <div class="card-body">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search for...">
+            <span class="input-group-btn">
+              <button class="btn btn-secondary" type="button">Go!</button>
+            </span>
+          </div>
+        </div>
+      </div>-->
+
+      <!-- Categories Widget -->
+      <div class="card my-4">
+        <h5 class="card-header">Tags</h5>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-lg-6">
+
+                {% if post %}
+                  {% assign tags = post.tags %}
+                {% else %}
+                  {% assign tags = page.tags %}
+                {% endif %}
+                {% for tag in tags %}
+                <span class="badge">
+                  <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{ tag }}</a>
+                </span>
+                {% endfor %}
+
+            </div>
+
+          </div>
+        </div>
       </div>
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-      {% endif %}
-    {% endif %}
 
-  {% endfor %}
+
+      <div class="card my-4">
+        <h5 class="card-header">You May Also Enjoy</h5>
+        <div class="card-body">
+
+          {% assign maxRelated = 3 %}
+          {% assign minCommonTags =  1 %}
+          {% assign maxRelatedCounter = 0 %}
+
+            {% for post in site.posts %}
+
+              {% assign sameTagCount = 0 %}
+              {% assign commonTags = '' %}
+
+              {% for tag in post.tags %}
+                {% if post.url != page.url %}
+                  {% if page.tags contains tag %}
+                    {% assign sameTagCount = sameTagCount | plus: 1 %}
+                    {% capture tagmarkup %} <span class="badge">{{ tag }}</span> {% endcapture %}
+                    {% assign commonTags = commonTags | append: tagmarkup %}
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+
+              {% if sameTagCount >= minCommonTags %}
+                <div>
+                <a href="{{ post.url }}">{{ post.title }} </a>{{ commonTags }}
+                </div>
+                {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                {% if maxRelatedCounter >= maxRelated %}
+                  {% break %}
+                {% endif %}
+              {% endif %}
+
+            {% endfor %}
+
+
+        </div>
+      </div>
+
+
+
+
+
+
+
+      <!-- Side Widget -->
+      <div class="card my-4">
+        <h5 class="card-header">My Tweets</h5>
+        <div class="card-body">
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/geekyjames?ref_src=twsrc%5Etfw">Tweets by geekyjames</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+      </div>
+
+      <div class="card my-4">
+        <h5 class="card-header">Side Widget</h5>
+        <div class="card-body">
+          You can put anything you want inside of these side widgets. They are easy to use, and feature the new Bootstrap 4 card containers!
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  <!-- /.row -->
 
 </div>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="jleighton/blog-comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>

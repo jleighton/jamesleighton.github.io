@@ -16,11 +16,11 @@ I haven't really gotten into anything much recently. Instead, I tried to play ev
 
 I started Breath of the Wild, accidentally wiped my save file, started again then didn't really go back to it. I played Mario Kart 8 Deluxe for about 20 hours in the two weeks after it came out, then haven't been back to it at all. Also on Switch I bought World of Goo, I am Setsuna, Disgaea 5, Minecraft and never really got into any of them. Whoops. Just need Stardew Valley so I can buy that too, then not play it.
 
-![BOTW](/images/BreathoftheWildFinalCover.jpg)
+![BOTW](/images/BreathoftheWildFinalCover.jpg){:class="img-fluid"}
 
 On PS4 I got back into Formula 1 2016 picking up my save from last September on the super easy mode, because driving F1 cars is hard. I am currently enjoying thoroughly beating everyone even though they basically all forgot how to drive.
 
-![538567](/images/538567.jpg)
+![538567](/images/538567.jpg){:class="img-fluid"}
 
 I also started Dragon Quest Heroes. Are you seeing a trend yet? I like starting games, I like quitting them *even more*! I'll probably go back to Dragon Quest Heroes next month, or maybe next year. Long winded story games are basically my nemesis.
 
@@ -30,7 +30,7 @@ Going forward I am going to try and play a 'few' games a week, and blogg about t
 
 [This guy is basically a hero.](http://merph.net/blog/) I do wonder if he has a job or a wife, though. Over 5 hours a day just playing games!
 
-![gxvg87e](/images/gxvg87e.png)
+![gxvg87e](/images/gxvg87e.png){:class="img-fluid"}
 
 **Games I played a bit of recently:**
 

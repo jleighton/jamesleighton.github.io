@@ -16,7 +16,7 @@ I have almost completely stopped drinking beer. In fact, I lost 8lbs which I am 
 
 I managed to log successfully for about a 14 day streak in MyfitnessPal before I went off that wagon. Anyway, onto the stats!
 
-![screen-shot-2017-02-12-at-14-42-32](https://jamesleighton.files.wordpress.com/2017/02/screen-shot-2017-02-12-at-14-42-32.png){.alignnone .size-full .wp-image-792 width="1298" height="236"}
+![screen-shot-2017-02-12-at-14-42-32](https://jamesleighton.files.wordpress.com/2017/02/screen-shot-2017-02-12-at-14-42-32.png){:class="img-fluid"}
 
 This is ***super motivational***, and should help me continue onwards and upwards!
 

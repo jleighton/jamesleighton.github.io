@@ -1,0 +1,12 @@
+---
+layout: home
+title: Projects
+jumbo_title: My Projects
+jumbo_text: Here is the archive of my projects. They range from programming, to electronics, 3D printing, and more.
+---
+
+<div class="row">
+    {% for post in site.tags.projects %}
+{% include card.html %}
+  {% endfor %}
+</div>

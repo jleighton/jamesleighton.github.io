@@ -1,0 +1,13 @@
+---
+layout: page
+title: Lifelogging Category Archive
+permalink: /category/lifelogging/index.html
+jumbo_title: Lifelogging Category Archive
+jumbo_text: All things Lifelogging.
+---
+
+<div class="row">
+    {% for post in site.categories.Lifelogging %}
+  {% include card.html %}
+  {% endfor %}
+</div>

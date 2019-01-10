@@ -1,0 +1,13 @@
+---
+layout: home
+title: Home
+permalink: /blog/index.html
+jumbo_title: Welcome to my blog
+jumbo_text: Relax, and stay a while.
+---
+
+<div class="row">
+  {% for post in site.posts %}
+  {% include card.html %}
+  {% endfor %}
+</div>

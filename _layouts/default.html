@@ -3,17 +3,21 @@
 
   {% include head.html %}
 
-  <body class="theme-base-09">
+  <body>
+    <main role="main">
+      {% include navbar.html %}
+      <div class="container">
 
-    <div class="content container">
+
+
       {{ content }}
+
+
     </div>
+  </main>
+{% include footer.html %}
 
 
-
-
-    {% include sidebar.html %}
-<script type="text/javascript">(function () {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;s.src = '/ssp/javascripts/jquery.socialshareprivacy.min.autoload.js';t.parentNode.insertBefore(s, t);})();</script>
 
 
   </body>

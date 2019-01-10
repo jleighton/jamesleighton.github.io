@@ -1,0 +1,13 @@
+---
+layout: page
+title: Gaming
+permalink: /category/gaming/index.html
+jumbo_title: Gaming Category Archive
+jumbo_text: All things games.
+---
+
+<div class="row">
+    {% for post in site.categories.Gaming %}
+  {% include card.html %}
+  {% endfor %}
+</div>
