@@ -6,6 +6,7 @@ Author: jamesleighton
 categories: Lifelogging
 tags: health tracking existio
 Slug: life-tracking-with-exist-io
+image: /images/exist.png
 
 
 ---
@@ -25,7 +26,7 @@ They encourage you to do that little bit more, stand up that little bit longer, 
 
 The Apple Watch also passively monitors your heart rate all the time you are wearing it. All these data points feed directly into the Apple Health app without any intervention, making it super easy to track just how much or little you do in a day.
 
-[![Apple Watch Activity Tracking Overview](/images/screen-shot-2017-08-05-at-17-59-17.png)](https://support.apple.com/en-gb/HT204517){:class="img-fluid"}
+[![Apple Watch Activity Tracking Overview](/images/screen-shot-2017-08-05-at-17-59-17.png){:class="img-fluid"}](https://support.apple.com/en-gb/HT204517)
 
 The final piece of hardware I have is an old set of [Withings wifi scales](http://amzn.to/2v8Zg0N).(Withings was bought by Nokia, so these are now branded as Nokia...)
 
@@ -33,7 +34,7 @@ Jump on these in the morning (... after your morning ablutions..) and your weigh
 
 
 
-[![wifi-scale](/images/wifi-scale.jpg)](http://amzn.to/2v9pPTH) [Nokia/Withings Smart Scales](http://amzn.to/2v9pPTH){:class="img-fluid"}
+[![wifi-scale](/images/wifi-scale.jpg){:class="img-fluid"}](http://amzn.to/2v9pPTH) [Nokia/Withings Smart Scales](http://amzn.to/2v9pPTH)
 
 The thing that really ties together all my data is a dashboard called [Exist](https://exist.io/?referred_by=jamesleighton). It connects to pretty much everything I care about... (Withings, RescueTime, DarkSky, Last.Fm, Google Calendar, Apple Health) and displays my data with averages, trends, and predictions.
 
