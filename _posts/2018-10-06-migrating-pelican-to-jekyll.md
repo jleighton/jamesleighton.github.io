@@ -3,7 +3,7 @@ Title: Migrating Pelican blog posts to Jekyll
 Date: 2018-10-06 18:06
 Author: jamesleighton
 categories: How-To
-tags: b log pelican jekyll markdown projects
+tags: blog pelican jekyll markdown projects
 Slug: migrating-pelican-blog-posts-to-jekyll
 Status: published
 image: /images/jekyll-logo.png
