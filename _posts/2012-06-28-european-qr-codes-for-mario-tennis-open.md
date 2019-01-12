@@ -6,6 +6,7 @@ tags: 3ds mario dlc
 Slug: european-qr-codes-for-mario-tennis-open
 Status: published
 layout: post
+image: /images/SI_3DS_MarioTennisOpen_image1600w.jpg
 ---
 Go to the file selection screen in game, and press Up+Start. The QR code scanner will open; then just scan any of the following!
 

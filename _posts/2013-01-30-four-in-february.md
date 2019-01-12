@@ -2,8 +2,9 @@
 Title: Four in February
 Date: 2013-01-30 00:11
 Author: jamesleighton
-categories: gaming
-Slug: four-in-february
+categories: Gaming
+tags: fourinfeb lego pokemon halflife elderscrolls oblivion
+slug: four-in-february
 Status: published
 ---
 

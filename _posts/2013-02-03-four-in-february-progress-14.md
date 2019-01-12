@@ -1,9 +1,10 @@
 ---
-Title: Four in February Progress 1/4
+title: Four in February Progress 1/4
 Date: 2013-02-03 22:29
 Author: jamesleighton
 categories: gaming
-Slug: four-in-february-progress-14
+tags: fourinfeb lego pokemon halflife elderscrolls oblivion
+slug: four-in-february-progress-14
 Status: published
 ---
 

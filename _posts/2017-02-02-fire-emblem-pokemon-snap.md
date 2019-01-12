@@ -3,9 +3,10 @@ Title: Fire Emblem & Pokemon Snap
 Date: 2017-02-12 15:12
 Author: jamesleighton
 categories: gaming
-Tags: 3ds backlog fire-emblem pokemon vc wiiu
+tags: 3ds backlog fire-emblem pokemon vc wiiu
 Slug: fire-emblem-pokemon-snap
 Status: published
+image: /images/pokemon-snap.jpeg
 ---
 
 What does Fire Emblem Fates: Birthright & Pokémon Snap have in common? I completed them both last week!

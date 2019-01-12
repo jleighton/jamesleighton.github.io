@@ -7,6 +7,7 @@ tags: 3ds reviews
 Slug: 3ds-circle-pad-pro-review
 Status: published
 Layout: post
+image: /images/circlepadpro_ggl51-625x352.jpg
 ---
 
 I have pretty big hands, because I'm a pretty big guy. I love my DSi XL for this reason: it's the most comfortable handheld console I've ever owned. I played three hours straight of Dragon Quest on it the other evening. The 3DS is completely different: it makes my hands cramp within half an hour of playing. This is more prevalent in games that use the shoulder buttons such as Mario Kart 7, than it simpler controlled games such as Pushmo.

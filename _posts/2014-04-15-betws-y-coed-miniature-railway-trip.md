@@ -2,10 +2,11 @@
 Title: Betws-Y-Coed Miniature Railway Trip
 Date: 2014-04-15 17:01
 Author: jamesleighton
-categories: Real world
-Tags: uni Wales
+categories: Life
+tags: uni wales travel
 Slug: betws-y-coed-miniature-railway-trip
 Status: published
+image: /images/betws-y-coed-mini-railway-james-laurence.jpg
 ---
 
 At [Betws-Y-Coed station](https://en.wikipedia.org/wiki/Betws-y-Coed_railway_station "Betws-Y-Coed Station Wikipedia Article"), there is a railway museum and miniature railway. The museum entry fee was £1.50, and so were tickets on the miniature railway. Having nearly run out of pennies, we decided to hop on the miniature railway, as you do. We even got cute little tickets which the driver checked...

@@ -7,6 +7,7 @@ tags: games pokemon
 Slug: 16-days-till-black-and-white-are-released
 Status: published
 Layout: post
+image: /images/wpid-pokemon-logo-2011-02-15-16-48.jpg
 ---
 And in the mean time I still have to play Dragon Quest IX, Mario and Luigi 3, complete all 16 badges in Soul Silver. And do uni work. Shit.  
 

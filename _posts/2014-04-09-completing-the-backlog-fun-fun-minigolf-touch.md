@@ -2,15 +2,16 @@
 Title: Completing the backlog Fun! Fun! Minigolf! Touch!
 Date: 2014-04-09 17:04
 Author: jamesleighton
-categories: games
-Tags: 3ds backlog gaming
+categories: Gaming
+tags: 3ds backlog gaming
 Slug: completing-the-backlog-fun-fun-minigolf-touch
 Status: published
+image: /images/ctbl-funfunminigolf.jpg
 ---
 
 This week I completed (unlocked everything I could) [Fun! Fun! Minigolf Touch!](http://www.metacritic.com/game/3ds/fun!-fun!-minigolf-touch!) for the 3DS. I bought it back in 2012 from the eShop because mini golf is awesome. And then I hardly played it. Maybe it's because games with 'Fun! Fun!' in the title usually aren't actually that fun? Maybe, I thought that this game was alright. Some courses were ridiculously easy, whilst others were randomly very hard.
 
-\[caption id="attachment\_491" align="alignnone" width="800"\]![ctbl-funfunminigolf](https://jamesleighton.files.wordpress.com/2016/11/ctbl-funfunminigolf.jpg){.alignnone .size-full .wp-image-491 width="800" height="456"} Fun! Fun! Minigolf Touch logo\[/caption\]
+![ctbl-funfunminigolf](https://jamesleighton.files.wordpress.com/2016/11/ctbl-funfunminigolf.jpg)
 
 The normal mode was a blast once I got back into it, trickshot mode on the other hand wasn't brilliant. The requirement to get the ball into a 'safe zone' within one shot did get a bit annoying on the more complicated levels as it required absolute precision in aiming each shot. Additonally, some of the more 'complex' levels were just the same courses with extra boxes and such in the way. There could of been way more imagination used between the European, Asian, and American Cups. I'm thinking hamburgers, great walls, and Eifel Towers if you get what I mean!
 

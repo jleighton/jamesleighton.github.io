@@ -3,9 +3,10 @@ Title: Executive Order Ban the Beer - First Month Goals Update
 Date: 2017-02-12 14:57
 Author: jamesleighton
 categories: life
-Tags: gettinghealthy gym myfitnesspal
+tags: gettinghealthy gym myfitnesspal
 Slug: executive-order-ban-the-beer-first-month-goals-update
 Status: published
+image: /images/a-schooner-of-beer.jpg
 ---
 
 Over a month has passed since my last post, and in that time I have been (slowly) working towards those goals I [mentioned](http://jamesleighton.com/2017/01/01/goals-and-motivation/).

@@ -3,9 +3,10 @@ Title: A little behind on the blogs!
 Date: 2016-12-26 12:27
 Author: jamesleighton
 categories: Life
-Tags: beer brewdog games traveling
+tags: beer brewdog games traveling
 Slug: a-little-behind-on-the-blogs
 Status: published
+image: /images/keyboard.jpg
 ---
 So I've been a lazy blogger recently. I should fix that. Probably
 

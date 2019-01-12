@@ -6,6 +6,7 @@ categories: How-To
 tags: geek server
 Slug: awstats-alternative-goaccess
 Status: published
+image: /images/awstats.jpg
 ---
 I didn't really want to bother with installing [AWStats](http://awstats.sourceforge.net/) and setting up the cgi stuff that goes with it, as well as setting the web server to ensure the stats stay hidden. I just want to get a rough idea of who's visiting my site and when. I'm usually happy with running a terminal window with tail -f, but sometimes a bit more analysis is needed.
 

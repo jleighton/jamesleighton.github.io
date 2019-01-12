@@ -2,8 +2,9 @@
 Title: Busy busy busy!
 Date: 2013-10-14 17:32
 Author: jamesleighton
-Tags: bangor tupcast uni
-Slug: busy-busy-busy
+tags: bangor tupcast uni Wales
+categories: Life
+slug: busy-busy-busy
 Status: published
 ---
 

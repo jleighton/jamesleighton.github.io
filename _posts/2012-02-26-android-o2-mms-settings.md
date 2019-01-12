@@ -6,6 +6,7 @@ categories: How-To
 tags: android reviews
 Slug: android-o2-mms-settings
 Status: published
+image: /images/telefonica-o2-logo.jpg
 ---
 My Samsung Galaxy S2 has been failing to receive picture messages (MMS) since I flashed it with [CyanogenMod](http://www.cyanogenmod.com/) a few months back. Not a big deal, but it was kind of annoying. No amount of fiddling with the APN settings seemed to help, and I was at a loss.
 

@@ -4,8 +4,9 @@ Date: 2016-11-19 14:44
 Author: jamesleighton
 tags: cooking getting-healthy life
 categories: Health
-Slug: 7-days
+slug: seven-days
 Layout: post
+image: /images/screen-shot-2016-11-19-at-14-16-57.png
 ---
 
 So, my [first week](http://www.jamesleighton.com/2016/11/13/90-days/) didn't start off that great. I ate pretty well for a few days (Vegetarian feta and squash tart was something on the menu I wouldn't have otherwise tried!) then I got busy and everything went to shit. I have plans to balance this and prevent it from happening again.

@@ -6,6 +6,7 @@ categories: How-To
 tags: apple howto networking troubleshooting wifi
 Slug: apple-airport-express-and-the-case-of-the-wrong-region
 Status: published
+image: /images/apple-logo_318-40184.jpg
 ---
 
 My Airport Express has been used for about six months via ethernet to stream audio, but recently I moved stuff around and had a tidy up and now my wireless signal in my room is (now, was) rubbish.

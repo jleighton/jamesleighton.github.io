@@ -6,6 +6,7 @@ categories: Gaming
 tags: 3ds animal-crossing
 Slug: animal-crossing-new-leaf-one-week-later
 Status: published
+image: /images/share_icon.jpg
 ---
 This has been a good week. The game I originally bought my 3DS for back in 2011 was released! Animal Crossing: New Leaf is awesome. There aren't many other ways to describe it. In fact, in the days since release it's now my 2nd most played game on my 3DS (Second only to AC:WW). I've played for 28 hours and 13 minutes at the time of writing this piece. That's an average of four hours a day; considering I've been working 8 or 9 hours most days this week apparently I haven't been sleeping much...
 

@@ -1,12 +1,13 @@
 ---
-Title: Removing EXIF Data Using Paint.net
+title: Removing EXIF Data Using Paint.net
 Date: 2011-02-22 13:55
 Author: jamesleighton
 categories: How-To
 tags: howto software tips
-Slug: removing-exif-data-using-paint-net
+slug: removing-exif-data-using-paint-net
 Status: published
 layout: post
+image: /images/Paint_NET_Logo.png
 ---
 A simple way to remove pesky EXIF data in photos (such as location information):
 
