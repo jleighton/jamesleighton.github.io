@@ -1,5 +1,5 @@
 ---
-title: What I've Been Playing - Level 1
+title: Level 1 - What I've Been Playing
 Date: 2017-11-05 16:30
 Author: jamesleighton
 categories: Gaming

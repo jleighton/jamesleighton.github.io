@@ -1,5 +1,5 @@
 ---
-title: What I've been playing - Level 4
+title: Level 4 - What I've been playing
 date: 2018-12-27 15:45
 author: jamesleighton
 categories: Gaming
