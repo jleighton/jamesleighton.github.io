@@ -4,7 +4,7 @@ date: 2019-03-16 10:42
 author: jamesleighton
 categories: Projects
 tags: sdr hackspace projects 
-slug: tracking-planes-from-your-laptop-ads-b-sdr-software-defined-radio
+slug: tracking-planes-from-your-laptop-ads-sdr-software-defined-radio
 Status: published
 layout: post
 image: /images/plane.png
