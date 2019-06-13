@@ -7,11 +7,11 @@ tags: travel geek technology product
 slug: essential-travel-technology-for-geeks-roadwarriors
 Status: published
 layout: post
-image: images/bose-micro.png
+image: /images/bose-micro.jpg
 ---
 I have spent a lot of time travelling for work during the first half of 2019, and am starting to perfect the perfect grab bag of technology to make my work and leisure time out of the office more useful, productive and fun.
 
-You need to judge what you'll be doing, where you are going, and how much spare time you'll have. Don't bring a 3DS and a Switch if you are going for three days and know you'll be out every night. Consider wether you really need your laptop AND your iPad - the iPad always loses. Every gram counts when your on the move, so make it count and consolidate as much as you can.
+You need to judge what you'll be doing, where you are going, and how much spare time you'll have. Don't bring a 3DS and a Switch if you are going for three days and know you'll be out every night. Consider wether you really need your laptop AND your iPad - the iPad always loses. Every gram counts when you're on the move, so make it count and consolidate as much as you can.
 
 ***USB C Multi Charger (Macbook Pro Compatible) + Another USB Charger***
 
