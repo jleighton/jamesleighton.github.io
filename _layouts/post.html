@@ -6,7 +6,7 @@ layout: default
 
 $.when( $.ready ).then(function() {
   // Document is ready.
-  $("#hits").load("https://jamesleighton.pythonanywhere.com/nocount?url=https://www.jamesleighton.com{{ page.url }}", function(responseTxt, statusTxt, xhr){
+  $("#hits").on("load", https://jamesleighton.pythonanywhere.com/nocount?url=https://www.jamesleighton.com{{ page.url }}", function(responseTxt, statusTxt, xhr){
     if(statusTxt == "success")
       console.log("External content loaded successfully!");
     if(statusTxt == "error")
