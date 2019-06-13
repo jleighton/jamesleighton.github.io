@@ -7,7 +7,7 @@ tags: travel geek technology product
 slug: essential-travel-technology-for-geeks-roadwarriors
 Status: published
 layout: post
-image: /images/bose-micro.png
+image: images/bose-micro.png
 ---
 I have spent a lot of time travelling for work during the first half of 2019, and am starting to perfect the perfect grab bag of technology to make my work and leisure time out of the office more useful, productive and fun.
 
