@@ -1,21 +1,7 @@
 ---
 layout: default
 ---
-<script>
 
-
-$.when( $.ready ).then(function() {
-  // Document is ready.
-  $("#hits").on("load", https://jamesleighton.pythonanywhere.com/nocount?url=https://www.jamesleighton.com{{ page.url }}", function(responseTxt, statusTxt, xhr){
-    if(statusTxt == "success")
-      console.log("External content loaded successfully!");
-    if(statusTxt == "error")
-      console.log("Error: " + xhr.status + ": " + xhr.statusText);
-  });
-});
-
-
-</script>
 <div class="container">
 
   <div class="row">
@@ -35,7 +21,7 @@ $.when( $.ready ).then(function() {
 <p class="badge badge-primary">{{ page.content | number_of_words }} words</p>
 
 
-<p class="badge badge-primary"><span id="hits">0</span> hits</p>
+
 
 
       <hr>
