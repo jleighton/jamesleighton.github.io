@@ -43,20 +43,6 @@
 </script>
 
 
-<script>
 
-
-$.when( $.ready ).then(function() {
-  // Document is ready.
-  $("#hits").load("https://jamesleighton.pythonanywhere.com/nocount?url=https://www.jamesleighton.com{{ page.url }}", function(responseTxt, statusTxt, xhr){
-    if(statusTxt == "success")
-      console.log("External content loaded successfully!");
-    if(statusTxt == "error")
-      console.log("Error: " + xhr.status + ": " + xhr.statusText);
-  });
-});
-
-
-</script>
 
   </head>
