@@ -4,23 +4,22 @@
 <script>
 
 
-
-
-  $(function() {
-
-    $("#hits").load("https://jamesleighton.pythonanywhere.com/nocount?url=www.jamesleighton.com/2018/09/new-jekyll-powered-blog/", function(responseTxt, statusTxt, xhr){
-      if(statusTxt == "success")
-        alert("External content loaded successfully!");
-      if(statusTxt == "error")
-        alert("Error: " + xhr.status + ": " + xhr.statusText);
-    });
+$.when( $.ready ).then(function() {
+  // Document is ready.
+  $("#hits").load("https://jamesleighton.pythonanywhere.com/nocount?url=www.jamesleighton.com/2018/09/new-jekyll-powered-blog/", function(responseTxt, statusTxt, xhr){
+    if(statusTxt == "success")
+      alert("External content loaded successfully!");
+    if(statusTxt == "error")
+      alert("Error: " + xhr.status + ": " + xhr.statusText);
   });
+});
+
 
 </script>
 </head>
 <body>
 
-<span class="hits">0</span> hits
+<div class="hits">0</div> hits
 
 
 </body>
