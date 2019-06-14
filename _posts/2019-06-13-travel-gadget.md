@@ -29,7 +29,7 @@ Double check the voltage of your equipment against your destination so you don't
 
 This [tiny USB powered router](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB) runs OpenWRT and lets you create your own secure Wifi hotspot. Simply connect it to the wifi at your remote office, or hotel and then your devices connect to it. No more spending ages reconfiguring wifi every time you move.
 
-It can also create an openVPN tunnel that works great with [Private Internet Access](https://www.privateinternetaccess.com/), but I would recommend buying a faster module if you plan on using the tunnel a lot.
+It can also create an openVPN tunnel that works great with [Private Internet Access](https://www.privateinternetaccess.com/), but I would recommend buying a faster router with more resources if you plan on using the tunnel a lot whilst streaming or gaming.
 [![Gl Inet Mobile Router](/images/gl-inet-01.jpg){:class="img-fluid"}](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB)
 
 [![Ethernet, Wifi Repeater, USB Modem, Mobile Tethering](/images/gl-inet-02.jpg){:class="img-fluid"}](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB)
