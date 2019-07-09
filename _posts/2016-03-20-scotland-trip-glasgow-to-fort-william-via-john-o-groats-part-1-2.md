@@ -7,13 +7,13 @@ slug: scotland-trip-glasgow-to-fort-william-via-john-o-groats-part-1-2
 image: /images/scotland-map.png
 ---
 
-<a href="/images/scotland-map.png" data-toggle="lightbox" data-title="Scotland Map, showing the route!">
+<a href="/images/scotland-map.png" data-toggle="lightbox" data-title="Scotland Map, showing the route!" data-gallery="example-gallery">
     <img src="/images/scotland-map.png" class="img-fluid">
 </a>
 
 We arrived at Glasgow on Saturday morning, the flight was fine (the breakfast not...) and headed into Glasgow city to get our train onwards. We travelled on a rover ticket which was pretty cool in itself, £118 for 8 days of travel within 15 days which I'll talk about in the next blog post.
 ￼
-<a href="/images/01.jpg" data-toggle="lightbox" data-title="Glasgow Queen Street Station">
+<a href="/images/01.jpg" data-toggle="lightbox" data-title="Glasgow Queen Street Station" data-gallery="example-gallery">
     <img src="/images/01.jpg" class="img-fluid">
 </a>
 
@@ -24,8 +24,8 @@ The bus that greeted us was fairly fancy; a coach with USB ports and reclining s
 Brewdog was a short walk away from the bus stop but it was pissing it down so felt like an age. But once we got there... It was awesome.
 
 
-<a href="/images/02.jpg" data-toggle="lightbox" data-title="Good people drink good beer">
-    <img src="/images/02.jpg" max-width:"800px" alt="Good people drink good beer">
+<a href="/images/02.jpg" data-toggle="lightbox" data-title="Good people drink good beer" data-gallery="example-gallery">
+    <img src="/images/02.jpg" class="img-fluid" alt="Good people drink good beer">
 </a>
 
 The next day we headed to Inverness. It snowed a bit, but nothing major. In fact, it was the most snow we saw all week.
@@ -35,10 +35,10 @@ I didn't actually get a photo of the boat, but I did take this cool timelapse. L
 <div class="row justify-content-center">
     <div class="col-md-12">
         <div class="row">
-        <a href="/images/07.jpeg" data-toggle="lightbox" data-title="Aberdeen Station">
+        <a href="/images/07.jpeg" data-toggle="lightbox" data-title="Aberdeen Station" data-gallery="example-gallery">
             <img src="/images/07.jpeg" class="img-fluid" alt="Aberdeen Station">
         </a>
-        <a href="/images/08.jpeg" data-toggle="lightbox" data-title="River Ness">
+        <a href="/images/08.jpeg" data-toggle="lightbox" data-title="River Ness" data-gallery="example-gallery">
             <img src="/images/08.jpeg" class="img-fluid" title="River Ness" alt="River Ness">
         </a>
         </div>
@@ -61,7 +61,7 @@ We got the bus to John o Groats and think we were pretty much the only tourists 
 Fun fact.. John o Groats is not the most northerly point of the mainland UK. That is nearby Dunnet Head.
 
 
-<a href="/images/09.jpg" data-toggle="lightbox" data-title="Me and laurence at John o groats">
+<a href="/images/09.jpg" data-toggle="lightbox" data-title="Me and laurence at John o groats" data-gallery="example-gallery">
     <img src="/images/09.jpg" class='img-fluid' title="Me and laurence at John o groats">
 </a>
 
@@ -71,7 +71,7 @@ There was nothing to do in Thurso. We had a pint in the hotel bar and went for a
 We got the first train out the next morning back to Inverness along the line we were on the day before where we stopped for lunch, and caught the coach to Fort William.
 Thurso to Fort William: 218 miles including the coach (Running total: 642 miles)
 
-<a href="/images/10.jpeg" data-toggle="lightbox" data-title="Fort William Station">
+<a href="/images/10.jpeg" data-toggle="lightbox" data-title="Fort William Station" data-gallery="example-gallery">
     <img src="/images/10.jpeg" class='img-fluid' title="Fort William Station">
 </a>
 
