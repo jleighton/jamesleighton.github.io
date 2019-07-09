@@ -2,7 +2,7 @@
 layout: post
 title: Scotland Trip - Glasgow to Fort William via John o' Groats - Part 1/2
 date: '2016-03-20 17:38'
-tags: scotland, travel, train
+tags: scotland travel train
 slug: scotland-trip-glasgow-to-fort-william-via-john-o-groats-part-1-2
 image: /images/scotland-map.png
 ---
