@@ -1,16 +1,21 @@
 ---
 layout: post
 title: Scotland Trip - Glasgow to Fort William via John o' Groats - Part 1/2
-date: '2019-07-09 17:38'
+date: '2016-03-20 17:38'
 tags: null
 slug: scotland-trip-glasgow-to-fort-william-via-john-o-groats-part-1-2
 image: /images/scotland-map.png
 ---
 
-![Scotland Map, showing the route!](/images/scotland-map.png){:class='img-fluid'}
+<a href="/images/scotland-map.png" data-toggle="lightbox" data-title="Scotland Map, showing the route!">
+    <img src="/images/scotland-map.png" class="img-fluid">
+</a>
 
 We arrived at Glasgow on Saturday morning, the flight was fine (the breakfast not...) and headed into Glasgow city to get our train onwards. We travelled on a rover ticket which was pretty cool in itself, £118 for 8 days of travel within 15 days which I'll talk about in the next blog post.
 ￼
+<a href="/images/01.jpg" data-toggle="lightbox" data-title="Glasgow Queen Street Station">
+    <img src="/images/01.jpg" class="img-fluid">
+</a>
 ![Glasgow Queen Street Station](/images/01.jpg){:class='img-fluid'}
 
 Glasgow Queen Street to Aberdeen: 155 miles (Running total 155 miles)
