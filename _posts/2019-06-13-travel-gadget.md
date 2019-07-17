@@ -15,7 +15,7 @@ You need to judge what you'll be doing, where you are going, and how much spare 
 
 ***USB C Multi Charger (Macbook Pro Compatible) + Another USB Charger***
 
-To cut down on the number of cables, and adapters you need; you should look at buying a USB C charger for your laptop (if your laptop charges via USB-C) that also has USB A ports. I bought an 'Engergea' adapter at Duty Free in Singpore earlier this year, and it works great for my 2017 Macbook Pro. It also supports QC3 so can fast charge my phone. This product isn't available in the UK, but there is a product which is identical except for the brand available [here](https://www.amazon.co.uk/Satechi-Charger-Qualcomm-compatible-MacBook/dp/B07D83RWDM/ref=as_li_ss_tl?keywords=usb+c+power+delivery+macbook+quick+charge&qid=1560446469&s=gateway&sr=8-21&linkCode=ll1&tag=geekyjames-21&linkId=1ad88f1927f7094a00519b35079a9433&language=en_GB](https://www.amazon.co.uk/Satechi-Charger-Qualcomm-compatible-MacBook/dp/B07D83RWDM/ref=as_li_ss_tl?keywords=usb+c+power+delivery+macbook+quick+charge&qid=1560446469&s=gateway&sr=8-21&linkCode=ll1&tag=geekyjames-21&linkId=1ad88f1927f7094a00519b35079a9433&language=en_GB)).
+To cut down on the number of cables, and adapters you need; you should look at buying a USB C charger for your laptop (if your laptop charges via USB-C) that also has USB A ports. I bought an 'Engergea' adapter at Duty Free in Singpore earlier this year, and it works great for my 2017 Macbook Pro. It also supports QC3 so can fast charge my phone. This product isn't available in the UK, but there is a product which is identical except for the brand available [here](https://www.amazon.co.uk/Satechi-Charger-Qualcomm-compatible-MacBook/dp/B07D83RWDM/ref=as_li_ss_tl?keywords=usb+c+power+delivery+macbook+quick+charge&qid=1560446469&s=gateway&sr=8-21&linkCode=ll1&tag=geekyjames-21&linkId=1ad88f1927f7094a00519b35079a9433&language=en_GB).
 
 I also have an Anker 5 port USB charger that I carry, so that I can leave one permantanly in the hotel room whilst the other can come to the office with me.
 
@@ -27,7 +27,7 @@ Double check the voltage of your equipment against your destination so you don't
 
 **Travel Router - Gl iNet Mobile Router**
 
-This [tiny USB powered travel router](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB) runs OpenWRT and lets you create your own secure Wifi hotspot. Simply connect it to the wifi at your remote office, or hotel and then your devices connect to it. No more spending ages reconfiguring wifi every time you move.
+This [tiny USB powered travel router](https://amzn.to/2NY6kud) runs OpenWRT and lets you create your own secure Wifi hotspot. Simply connect it to the wifi at your remote office, or hotel and then your devices connect to it. No more spending ages reconfiguring wifi every time you move.
 
 It can also create an openVPN tunnel that works great with [Private Internet Access](https://www.privateinternetaccess.com/), but I would recommend buying a faster router with more resources if you plan on using the tunnel a lot whilst streaming or gaming.
 
