@@ -27,15 +27,15 @@ Double check the voltage of your equipment against your destination so you don't
 
 **Travel Router - Gl iNet Mobile Router**
 
-This [tiny USB powered travel router](https://amzn.to/2NY6kud) runs OpenWRT and lets you create your own secure Wifi hotspot. Simply connect it to the wifi at your remote office, or hotel and then your devices connect to it. No more spending ages reconfiguring wifi every time you move.
+This [tiny USB powered travel router](https://amzn.to/2O0zpFo) runs OpenWRT and lets you create your own secure Wifi hotspot. Simply connect it to the wifi at your remote office, or hotel and then your devices connect to it. No more spending ages reconfiguring wifi every time you move.
 
 It can also create an openVPN tunnel that works great with [Private Internet Access](https://www.privateinternetaccess.com/), but I would recommend buying a faster router with more resources if you plan on using the tunnel a lot whilst streaming or gaming.
 
 It worked fantastic on hotel wifi when combined with a Chromecast on my last trip.
 
-[![Gl Inet Mobile Router](/images/gl-inet-01.jpg){:class="img-fluid"}](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB)
+[![Gl Inet Mobile Router](/images/gl-inet-01.jpg){:class="img-fluid"}](https://amzn.to/2O0zpFo)
 
-[![Ethernet, Wifi Repeater, USB Modem, Mobile Tethering](/images/gl-inet-02.jpg){:class="img-fluid"}](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB)
+[![Ethernet, Wifi Repeater, USB Modem, Mobile Tethering](/images/gl-inet-02.jpg){:class="img-fluid"}](https://amzn.to/2O0zpFo)
 
 **Google Chromecast**
 
@@ -43,21 +43,21 @@ It worked fantastic on hotel wifi when combined with a Chromecast on my last tri
 
 [![Google Chromecast](/images/chromecast.jpg){:class="img-fluid"}](https://store.google.com/gb/product/chromecast)
 
-Chromecast plus a [portable travel router](https://www.amazon.co.uk/GL-iNet-GL-MT300N-V2-Pre-installed-Performance-Compatible/dp/B073TSK26W/ref=as_li_ss_tl?keywords=gl+inet&qid=1560446005&s=gateway&sr=8-3&&linkCode=ll1&tag=geekyjames-21&linkId=229f2abd121896112211888e7eb7cf9a&language=en_GB) is a much better idea. Easily stream Netflix, Youtube etc with minimal fuss. I need to test Netflix using a non-public VPN to see if that works; but all the major VPN providers are blocked by netflix now.
+Chromecast plus a [portable travel router](https://amzn.to/2O0zpFo) is a much better idea. Easily stream Netflix, Youtube etc with minimal fuss. I need to test Netflix using a non-public VPN to see if that works; but all the major VPN providers are blocked by netflix now.
 
 **Nintendo Switch + Portable Dock**
 
 ![Nintendo Switch](/images/switch.jpg){:class="img-fluid"}
 
-No better way of wasting some down time than video games, and there is no better way to play games when your travelling than the [Nintendo Switch](https://www.amazon.co.uk/Nintendo-Switch-Neon-Red-Blue/dp/B01N4NBHPM/ref=as_li_ss_tl?keywords=nintendo+switch&qid=1560446364&s=gateway&sr=8-3&linkCode=ll1&tag=geekyjames-21&linkId=407ab5eb514e420ff215de49f0195910&language=en_GB). The switch has a nice variety of 'proper' console quality games + niche indie games. Combined with a portable travel dock (using the electrical guts from a spare dock) it makes a great addition to your trip. Portable mode for playing in the pub, docked mode back at your room or in the meeting room. Maybe...
+No better way of wasting some down time than video games, and there is no better way to play games when your travelling than the [Nintendo Switch](https://amzn.to/2JKjupq). The switch has a nice variety of 'proper' console quality games + niche indie games. Combined with a portable travel dock (using the electrical guts from a spare dock) it makes a great addition to your trip. Portable mode for playing in the pub, docked mode back at your room or in the meeting room. Maybe...
 
 Watch out for third party docks, and chargers as they can cause problems with charging the switch leading to potential bricks. I 3D printed a case for a spare dock from my wife's switch that she never uses and bring along an official switch power adapter so it is effectively using a 'real switch dock' without any of the bulk.
 
 **Bose Soundtouch Micro**
 
-I bought a [Bose Soundtouch Micro](https://www.amazon.co.uk/Bose-SoundLink-Micro-Bluetooth-Speaker-Bright-Orange/dp/B0748PGNBX/ref=as_li_ss_tl?keywords=bose+soundlink+micro&qid=1560446309&s=gateway&sr=8-7&linkCode=ll1&tag=geekyjames-21&linkId=d9cd830518e4c50cfe98da12d6d585e6&language=en_GB) recently on a trip to the Middle East as I wanted better sound than my macbook or phone could give. I don't have it too loud (because I am not an arsehole) but it gives very nice sound at reasonable volume for any hotel room or aparthotel sized space. It also sounds great for podcasts. Be warned that whilst it has a microphone, I can't get this to work for Skype or Whatsapp calls on Android Pie (Samsung Galaxy Note 8) which is annoying. Also, bear in mind this speaker is bluetooth only and has no auxillary input.
+I bought a [Bose Soundtouch Micro](https://amzn.to/2XPxlo4) recently on a trip to the Middle East as I wanted better sound than my macbook or phone could give. I don't have it too loud (because I am not an arsehole) but it gives very nice sound at reasonable volume for any hotel room or aparthotel sized space. It also sounds great for podcasts. Be warned that whilst it has a microphone, I can't get this to work for Skype or Whatsapp calls on Android Pie (Samsung Galaxy Note 8) which is annoying. Also, bear in mind this speaker is bluetooth only and has no auxillary input.
 
-[![Bose Soundtouch Micro](/images/bose-micro.jpg){:class="img-fluid"}](https://www.amazon.co.uk/Bose-SoundLink-Micro-Bluetooth-Speaker-Bright-Orange/dp/B0748PGNBX/ref=as_li_ss_tl?keywords=bose+soundlink+micro&qid=1560446309&s=gateway&sr=8-7&linkCode=ll1&tag=geekyjames-21&linkId=d9cd830518e4c50cfe98da12d6d585e6&language=en_GB)
+[![Bose Soundtouch Micro](/images/bose-micro.jpg){:class="img-fluid"}](https://amzn.to/2XPxlo4)
 
 **Video Adapters + Cables**
 
