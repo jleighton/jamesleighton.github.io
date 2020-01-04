@@ -1,5 +1,5 @@
 ---
-Title: Level 5 - What I've been Playing in 2019
+title: Level 5 - What I've been Playing in 2019
 Date: '2019-07-07 11:28'
 slug: level-5-what-ive-been-playing-2019
 author: jamesleighton
@@ -7,6 +7,7 @@ categories: Gaming
 tags: switch backlog 3ds
 image: /images/joycon.jpg
 Status: published
+layout: post
 ---
 
 I really need to try and complete this post a bit more often!
