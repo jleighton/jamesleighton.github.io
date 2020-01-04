@@ -33,8 +33,8 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
-  - jekyl-feed
-    - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

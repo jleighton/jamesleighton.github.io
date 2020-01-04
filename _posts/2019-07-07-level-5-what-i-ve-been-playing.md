@@ -1,6 +1,6 @@
 ---
-title: Level 5 - What I've been Playing in 2019
-date: '2019-07-07 11:28'
+Title: Level 5 - What I've been Playing in 2019
+Date: '2019-07-07 11:28'
 slug: level-5-what-ive-been-playing-2019
 author: jamesleighton
 categories: Gaming
