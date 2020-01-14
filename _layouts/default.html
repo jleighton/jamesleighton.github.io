@@ -25,8 +25,17 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             });
 </script>
 
+<script>
+	(function() {
+		var script = document.createElement('script');
+		window.counter = 'https://jamesleighton_com.goatcounter.com/count'
+		script.async = 1;
+		script.src = '//gc.zgo.at/count.js';
 
-<div id="amzn-assoc-ad-9301d063-4fc0-4613-ab46-d93af0fa86d5"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=9301d063-4fc0-4613-ab46-d93af0fa86d5"></script>
+		var ins = document.getElementsByTagName('script')[0];
+		ins.parentNode.insertBefore(script, ins)
+	})();
+</script>
 
 
   </body>
