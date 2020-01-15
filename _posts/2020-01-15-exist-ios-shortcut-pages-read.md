@@ -7,7 +7,7 @@ tags: existio tracking shortcuts
 slug: Logging-pages-read-to-Exist-io-via-Shortcuts-app
 Status: published
 layout: post
-image: /images/exist.png
+image: /images/B8D54505-44D3-4E76-9332-3E7DA729C5AB.jpeg
 ---
 
 I was messing around with the [Exist.IO](http://exist.IO) API over the weekend to see what I could build. I noticed that there was a 'Pages read' attribute that I could post to.
