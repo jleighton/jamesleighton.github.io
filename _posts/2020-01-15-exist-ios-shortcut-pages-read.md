@@ -31,3 +31,5 @@ The follow the OAuth2 authentication steps, and create your access token. (I hav
 Lastly, You can load the following shortcut on your phone or ipad and paste in your authentication token and that is it!
 
 [https://www.icloud.com/shortcuts/b493d6e88fcf47d293e6cb5cc8ff9224](https://www.icloud.com/shortcuts/b493d6e88fcf47d293e6cb5cc8ff9224)
+
+![Exist Dashboard](/images/pages-read2.png){:class="img-fluid"}
