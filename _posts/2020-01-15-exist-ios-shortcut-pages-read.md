@@ -1,16 +1,24 @@
-# Logging pages read to Exist.io via Shortcuts
+---
+title: Logging pages read to Exist.io via Shortcuts
+date: 2020-01-15 07:45
+author: jamesleighton
+categories: Projects
+tags: existio tracking shortcuts
+slug: Logging-pages-read-to-Exist-io-via-Shortcuts-app
+Status: published
+layout: post
+image: /images/exist.png
+---
 
-Status: In Progress
-
-I was messing around with the [Exist.IO](https://exist.io/?referred_by=jamesleighton) API over the weekend to see what I could build. I noticed that there was a 'Pages read' attribute that I could post to.
+I was messing around with the [Exist.IO](http://exist.IO) API over the weekend to see what I could build. I noticed that there was a 'Pages read' attribute that I could post to.
 
 Perfect! I then wondered how easily I could build an iOS app that would let me submit that each day (Spoiler: quite a lot of work) however, I remembered that Shortcuts was a thing and decided to see if it was possible to use a shortcut to post to an API.
 
 The answer is yes - I have a home screen icon that asks me how many pages I've read and sends it to exist.
 
-![Logging pages read](/images/B8D54505-44D3-4E76-9332-3E7DA729C5AB.jpeg){:class="img-fluid"}
+![Shortcut App - Prompt to enter pages read](/images/B8D54505-44D3-4E76-9332-3E7DA729C5AB.jpeg){:class="img-fluid"}
 
-![Pages read logged](/images/BAA4505E-F3F0-47F6-A073-2D5956EC3946.jpeg){:class="img-fluid"}
+![Successful Log to Exist.io](/images/BAA4505E-F3F0-47F6-A073-2D5956EC3946.jpeg){:class="img-fluid"}
 
 To get started with this, you should head over to the [Exist.IO developer pages](http://developer.exist.io/) and have a read through.
 
@@ -18,7 +26,7 @@ Firstly, Create a developer client from your account settings within Exist, and 
 
 ![Exist Developer Dashboard](/images/Screenshot_2020-01-15_at_07.40.00.png){:class="img-fluid"}
 
-Then follow the OAuth2 authentication steps, and create your access token. (I have some Python code that will help do this, but I need to tidy it up before I release it.)
+The follow the OAuth2 authentication steps, and create your access token. (I have some Python code that will help do this, but I need to tidy it up before I release it.)
 
 Lastly, You can load the following shortcut on your phone or ipad and paste in your authentication token and that is it!
 
