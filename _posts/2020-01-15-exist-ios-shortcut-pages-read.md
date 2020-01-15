@@ -24,7 +24,9 @@ To get started with this, you should head over to the [Exist.IO developer pages]
 
 Firstly, Create a developer client from your account settings within Exist, and make sure it has access to the pages_read attribute. This will give you the information you require to generate the access tokens needed for the Shortcut.
 
-![Exist Developer Dashboard](/images/Screenshot_2020-01-15_at_07.40.00.png){:class="img-fluid"}
+<a href="/images/Screenshot_2020-01-15_at_07.40.00.png" data-toggle="lightbox" data-title="Exist Developer Dashboard!" data-gallery="example-gallery">
+    <img src="images/Screenshot_2020-01-15_at_07.40.00.png" class="img-fluid">
+</a>
 
 The follow the OAuth2 authentication steps, and create your access token. (I have some Python code that will help do this, but I need to tidy it up before I release it.)
 
