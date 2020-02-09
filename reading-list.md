@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: Reading List
-permalink: /reading-list/
+permalink: /reading-list/index.html
 summary: "My Reading List"
 ---
 # My Reading List #
