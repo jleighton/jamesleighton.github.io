@@ -6,12 +6,12 @@ summary: "My Reading List"
 ---
 # My Reading List #
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">Title</th>
-<th title="Field #2">Author</th>
-<th title="Field #3">Started</th>
-<th title="Field #4">Finished</th>
-<th title="Field #5">Page Count</th>
-<th title="Field #6">Page / Day</th>
+<thead><tr><th title="Title">Title</th>
+<th title="Author">Author</th>
+<th title="Date Started">Started</th>
+<th title="Date Finished">Finished</th>
+<th title="Page Count">Page Count</th>
+<th title="Page / Day">Page / Day</th>
 </tr></thead>
 <tbody><tr>
 <td><a href="https://www.goodreads.com/book/show/34504.Wyrd_Sisters" title="Wyrd Sisters">Wyrd Sisters</a></td>
@@ -22,7 +22,7 @@ summary: "My Reading List"
 <td align="right">19</td>
 </tr>
 <tr>
-<td>The Last Wish</td>
+<td><a href="https://www.goodreads.com/book/show/40603587-the-last-wish" title="The Last Wish">The Last Wish</a></td>
 <td>Andrzej Sapkowski</td>
 <td>Jan 04, 2020</td>
 <td>Jan 10, 2020</td>
@@ -30,11 +30,11 @@ summary: "My Reading List"
 <td align="right">47</td>
 </tr>
 <tr>
-<td>Pyramids</td>
-<td>Terry Pratchett </td>
+<td><a href="https://www.goodreads.com/book/show/64217.Pyramids" title="Pyramids">Pyramids</a></td>
+<td>Terry Pratchett</td>
 <td>Jan 10, 2020</td>
-<td>Currently Reading</td>
+<td>Jan 27, 2020</td>
 <td align="right">314</td>
-<td align="right">0</td>
+<td align="right">17</td>
 </tr>
 </tbody></table>
