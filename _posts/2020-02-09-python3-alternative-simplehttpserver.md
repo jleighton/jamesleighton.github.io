@@ -1,5 +1,5 @@
 ---
-title: Python 3 SimpleHTTPSServer
+title: Python 3 SimpleHTTPServer
 date: 2020-01-15 07:45
 author: jamesleighton
 categories: How-To
