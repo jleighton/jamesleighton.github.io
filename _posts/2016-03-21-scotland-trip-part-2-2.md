@@ -11,15 +11,15 @@ We left on the West Highland line for a short two hour run to Mallaig, this line
 
 **Fort William to Mallaig: 41 miles (Running total: 683 miles)**
 
-![01](https://jamesleighton.files.wordpress.com/2016/11/012.jpg){.alignnone .size-full .wp-image-593 width="1500" height="1125"}
+![01](https://jamesleighton.files.wordpress.com/2016/11/012.jpg){:class="img-fluid"}
 
 We passed the [Glenfinnan Viaduct](https://en.wikipedia.org/wiki/Glenfinnan_Viaduct) which you might remember featuring in the Harry Potter movies, and were shortly in Mallaig; a small coastal ferry port on the west coast of the Highlands.
 
-![02](https://jamesleighton.files.wordpress.com/2016/11/022.jpg){.alignnone .size-full .wp-image-594 width="1500" height="1125"}
+![02](https://jamesleighton.files.wordpress.com/2016/11/022.jpg){:class="img-fluid"}
 
 After a brief stop at the B&B, we found the lifeboat and the two pubs. My 100th beer on Untapped was actually in Mallaig.. Tennent’s Lager at The Steam Inn! Probably could of made a better choice for the 100th, but nevermind now.
 
-![03](https://jamesleighton.files.wordpress.com/2016/11/032.jpg){.alignnone .size-full .wp-image-595 width="1500" height="404"}
+![03](https://jamesleighton.files.wordpress.com/2016/11/032.jpg){:class="img-fluid"}
 
 Early to rise the next day, we got the 6.02 to Glasgow Queen Street and settled in for the six hour journey. Along the way, we saw the [highest station](https://en.wikipedia.org/wiki/Corrour_railway_station) on the network (it's also 10 miles from the nearest public road) and lots and lots of mountains. It was the prettiest of all of journeys all week.
 
