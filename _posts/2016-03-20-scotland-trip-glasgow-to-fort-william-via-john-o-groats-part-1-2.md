@@ -23,7 +23,6 @@ Aberdeen was our first destination, Brewdog Brewery our goal. The train to Aberd
 The bus that greeted us was fairly fancy; a coach with USB ports and reclining seats! It was a comfy ride to Ellon.
 Brewdog was a short walk away from the bus stop but it was pissing it down so felt like an age. But once we got there... It was awesome.
 
-
 <a href="/images/02.jpg" data-toggle="lightbox" data-title="Good people drink good beer" data-gallery="example-gallery">
     <img src="/images/02.jpg" class="img-fluid" alt="Good people drink good beer">
 </a>
@@ -45,10 +44,6 @@ I didn't actually get a photo of the boat, but I did take this cool timelapse. L
     </div>    
 </div>
 
-
-
-
-
 Aberdeen to Inverness: 108 miles (Running total: 263 miles)
 
 We didn't do much in Inverness; looked for cheap GoPro accessories for Laurence and found somewhere to drink. We didn't find any accessories that weren't fifty quid, but we did find a Wetherspoons so not all bad.
@@ -59,7 +54,6 @@ Onwards to the far north of Scotland. We got a 7am train to Wick/Thurso the next
 
 We got the bus to John o Groats and think we were pretty much the only tourists around this early in March. Everyone else on the bus had their shopping..
 Fun fact.. John o Groats is not the most northerly point of the mainland UK. That is nearby Dunnet Head.
-
 
 <a href="/images/09.jpg" data-toggle="lightbox" data-title="Me and laurence at John o groats" data-gallery="example-gallery">
     <img src="/images/09.jpg" class='img-fluid' title="Me and laurence at John o groats">
