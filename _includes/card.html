@@ -1,5 +1,5 @@
 <div class="col-md-4">
-  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 27}}</a></h3>
+  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 30}}</a></h3>
   <a href="{{ post.url }}" title="{{ post.title }}">
 
 
@@ -31,14 +31,7 @@
  <p class="badge badge-primary"><a class="badge-white-text-link" href="/category/{{category|downcase}}/">{{category}}</a></p>
 {% endfor %}
 
-
-
-
-<p class="badge badge-primary"><img src="https://jamesleighton.pythonanywhere.com/nocount/tag.svg?url=www.jamesleighton.com{{ post.url }}" alt="Hits"></p>
-
-
-
-  <p>{{ post.content | strip_html | truncatewords: 40 }}</p>
+  <p>{{ post.content | strip_html | truncatewords: 45 }}</p>
 
 <p>
   {% if post %}
