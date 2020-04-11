@@ -11,7 +11,7 @@ Status: published
 Getting as much data into Exist as I can is important more me. So far this year I've built integrations for...
 
 - Gaming Time
-- Pages Read (via iOS Shortcuts)
+- [Pages Read](https://www.jamesleighton.com/2020/01/15/Logging-pages-read-to-Exist-io-via-Shortcuts-app/) (via iOS Shortcuts)
 - Money Spent (using the Monzo API)
 
 This post details how I am tracking gaming time since the start of the year... I [found a project](https://github.com/c99koder/personal-influxdb) around Christmas 2019 that let you retrieve accurate playtime from your Nintendo Switch via the parental controls feature. This was cool, but I don't always play things on my Switch, so we had to go deeper.
