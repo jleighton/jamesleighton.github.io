@@ -1,7 +1,7 @@
 ---
-title: April 2020 Gaming
+title: Level 7 - April 2020 Gaming
 date: '2020-05-02 11:28'
-slug: april-2020-gaming
+slug: level-7-april-2020-gaming
 author: jamesleighton
 categories: Gaming
 tags: backlog gaming animal-crossing dq gta switch
