@@ -24,3 +24,8 @@ html { font-size: 100%; }
 a.badge-white-text-link{
   color: #FFF;
 }
+
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
