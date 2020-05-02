@@ -29,3 +29,9 @@ a.badge-white-text-link{
   text-align: center;
   font-size: .8rem;
   color: light-grey;
+}
+
+.badge-verticle {
+margin-top: 0;
+margin-bottom: 0;
+}

@@ -1,49 +1,40 @@
 <div class="col-md-4">
-  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 30}}</a></h3>
-  <a href="{{ post.url }}" title="{{ post.title }}">
-
-
-    {% if post.image %}
-<img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
-    {% else %}
-
-
-
-
-    {% endif %}
-
-
-
-
-
-
-
-
-
-  </a>
-  <p class="badge badge-primary">Posted on {{ post.date | date: "%Y-%m-%d" }}</p>
+  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 24}}</a></h3>
+  <a href="{{ post.url }}" title="{{ post.title }}"></a>
+<span style="margin-bottom: 0;">
+  <p class="badge badge-primary"><i class="fas fa-calendar-day"></i> {{ post.date | date: "%Y-%m-%d" }}</p>
   {% if post %}
     {% assign categories = post.categories %}
   {% else %}
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
- <p class="badge badge-primary"><a class="badge-white-text-link" href="/category/{{category|downcase}}/">{{category}}</a></p>
+ <p class="badge badge-primary badge-verticle"><a class="badge-white-text-link" href="/category/{{category|downcase}}/"><i class="far fa-folder-open"></i>
+
+ {{category}}</a></p>
 {% endfor %}
 
-  <p>{{ post.content | strip_html | truncatewords: 45 }}</p>
 
-<p>
+
+
   {% if post %}
     {% assign tags = post.tags %}
   {% else %}
     {% assign tags = page.tags %}
   {% endif %}
   {% for tag in tags %}
-  <span class="badge">
-    <a href="/tag/{{tag|slugize}}/">{{ tag }}</a>
-  </span>
-  {% endfor %}
+<p class="badge badge-primary badge-verticle">
+    <a class="badge-white-text-link"  href="/tag/{{tag|slugize}}/"><i class="fas fa-tags"></i> {{ tag }}</a>
 </p>
+  {% endfor %}
+</span>
+
+    {% if post.image %}
+<img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
+    {% else %}
+
+    {% endif %}
+
+<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 
 </div>
