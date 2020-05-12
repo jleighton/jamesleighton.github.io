@@ -17,7 +17,7 @@ layout: default
       <hr>
 
       <!-- Date/Time -->
-      <p class="badge badge-primary">Posted on {{ page.date | date: "%Y-%m-%d" }}</p>
+      <p class="badge badge-primary"><i class="fas fa-calendar-day"></i> Posted on {{ page.date | date: "%Y-%m-%d" }}</p>
 <p class="badge badge-primary">{{ page.content | number_of_words }} words</p>
 
       <hr>
@@ -72,7 +72,7 @@ layout: default
 
       <!-- Categories Widget -->
       <div class="card my-4">
-        <h5 class="card-header">Tags</h5>
+        <h5 class="card-header"><i class="fas fa-tags"></i> Tags</h5>
         <div class="card-body">
           <div class="row">
             <div class="col-lg-6">
@@ -96,10 +96,10 @@ layout: default
 
 
       <div class="card my-4">
-        <h5 class="card-header">You May Also Enjoy</h5>
+        <h5 class="card-header"><i class="far fa-grin-alt"></i> You May Also Enjoy</h5>
         <div class="card-body">
 
-          {% assign maxRelated = 3 %}
+          {% assign maxRelated = 5 %}
           {% assign minCommonTags =  1 %}
           {% assign maxRelatedCounter = 0 %}
 
@@ -164,7 +164,7 @@ I'm using Exist to track my life and understand my behaviour. Join me! <a href="
 
 
       <div class="card my-4">
-        <h5 class="card-header">My Tweets</h5>
+        <h5 class="card-header"><i class="fab fa-twitter"></i>My Tweets</h5>
         <div class="card-body">
 <a class="twitter-timeline" data-height="500" href="https://twitter.com/geekyjames?ref_src=twsrc%5Etfw">Tweets by geekyjames</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
