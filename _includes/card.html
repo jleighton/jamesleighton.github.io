@@ -1,21 +1,12 @@
 <div class="col-md-4">
-  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  |truncate: 30}}</a></h3>
+  <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title  | truncate: 30}}</a></h3>
   <a href="{{ post.url }}" title="{{ post.title }}">
-
 
     {% if post.image %}
 <img src="{{ post.image }}" alt="{{ post.title }}" style="width:100%;">
     {% else %}
 
-
-
-
     {% endif %}
-
-
-
-
-
 
 
 
