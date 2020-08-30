@@ -1,5 +1,3 @@
-Setting up Joplin to Sync with Fastmail
-
 ---
 title: Sync Joplin with Fastmail Files
 date: 2020-08-31 20:36
