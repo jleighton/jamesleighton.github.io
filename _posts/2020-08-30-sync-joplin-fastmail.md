@@ -1,6 +1,6 @@
 ---
 title: Sync Joplin with Fastmail Files
-date: 2020-08-31 20:36
+date: 2020-08-30 20:36
 author: jamesleighton
 categories: How-To
 tags: howto productivity linux
