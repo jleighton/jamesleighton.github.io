@@ -13,8 +13,11 @@ image: /images/ubuntu-logo32.png
 How to setup [Joplin](1) Synchronisation using Fastmail Files (WebDAV)
 
 Synchronisation target: WebDAV
+
 Webdav URL: https://myfiles.fastmail.com/{directory in fastmail files you want to save your notes in}
+
 WebDAV User: fastmail username
+
 WebDAV Password: [Application Specific Password](2) for Files
 
 ![fastmail-sync-settings.png](/images/4d762a0157924da59d60ded3cec1b458.png){:class="img-fluid" :alt="Joplin Fastmail Settings"}
