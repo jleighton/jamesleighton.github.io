@@ -46,7 +46,7 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: page\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\njumbo_title: '+tag+' Tag Archive\n---\n<div class="row">\n{% for post in site.tags.'+tag+'%}\n{% include card.html %}\n{% endfor %}\n</div>'
+    write_str = '---\nlayout: page\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\njumbo_title: '+tag+' Tag Archive\n---\n\n{% for post in site.tags.'+tag+'%}\n{% include card.html %}\n{% endfor %}\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())

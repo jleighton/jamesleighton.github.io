@@ -4,8 +4,7 @@ title: "Tag: skyrim"
 tag: skyrim
 jumbo_title: skyrim Tag Archive
 ---
-<div class="row">
+
 {% for post in site.tags.skyrim%}
 {% include card.html %}
 {% endfor %}
-</div>

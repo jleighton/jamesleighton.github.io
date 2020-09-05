@@ -4,8 +4,7 @@ title: "Tag: switch"
 tag: switch
 jumbo_title: switch Tag Archive
 ---
-<div class="row">
+
 {% for post in site.tags.switch%}
 {% include card.html %}
 {% endfor %}
-</div>

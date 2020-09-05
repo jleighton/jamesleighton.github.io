@@ -4,8 +4,7 @@ title: "Tag: mud"
 tag: mud
 jumbo_title: mud Tag Archive
 ---
-<div class="row">
+
 {% for post in site.tags.mud%}
 {% include card.html %}
 {% endfor %}
-</div>
