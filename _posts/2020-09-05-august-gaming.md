@@ -25,7 +25,7 @@ This is a great game but the difficulty curve towards the end is ridiculously st
 
 Bought the PC version this month as it hit my price threshold of a tenner. Transferring my save over from the Switch was as easy as logging into Steam. It is obviously a lot prettier on PC but the lack of portability isn't exactly a problem right now due to the pandemic.
 
-I am aiming to finish the main story of the base game by the end of year but I suppose I will get sidetracked! I really enjoyed the Netflix show, and have been reading through the books this year so more Witcher lore is more than welcome!
+I am aiming to finish the main story of the base game by the end of year but I suppose I will get sidetracked! I really enjoyed the Netflix show, and have been reading through the books this year so more Witcher lore is great.
 
 **Animal Crossing: New Horizons: 5h40m**
 
