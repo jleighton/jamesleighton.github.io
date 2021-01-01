@@ -10,7 +10,7 @@ layout: post
 image: /images/2020-topnine-games.png
 ---
 
-2020 has been a strange here. Here is how I spent some of it:
+2020 has been a strange year. Here is how I spent some of it:
 
 # Games
 
