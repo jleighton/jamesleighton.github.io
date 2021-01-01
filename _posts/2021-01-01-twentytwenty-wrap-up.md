@@ -14,7 +14,7 @@ image: /images/2020-topnine-games.png
 
 # Games
 
-I played 66 games for longer than half an hour in 2020 and played at least a few seconds of 109 games in total. Out of my top 9 games, only 1 was released in 2020.
+I played 66 games for longer than half an hour in 2020 and played at least a few seconds of 109 games in total. Out of my top 9 games, only 2 were released in 2020.
 
 Of my top 66 games, I played each for an average of 6h12m (drastically dragged higher by animal crossing)
 
