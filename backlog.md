@@ -7,7 +7,7 @@ jumbo_title: My name is James.
 jumbo_text: And this is my gaming backlog!
 ---
 
-In 2021, I want to complete some of the following games. Lady Luck will select the next game by the roll of a dice.
+In 2021, I want to complete some of the following games. Lady Luck will select the next game by the roll of a dice 🎲 🎲
 
 Some of these I've played before, but never beaten. This list will also serve as a reminder to stop spending money on games the next time there is a sale...
 
@@ -59,5 +59,13 @@ Some of these I've played before, but never beaten. This list will also serve as
 1. Persona 4 Golden
 1. Grand Theft Auto 3
 1. Grand Theft Auto Vice City
+
+Last Year I Completed:
+
+- Super Mario Bros 2: Yoshi's Island - 2020/08/30
+- Prison Architect - 2020/06/29
+- 42 All-Time Classics (Stamp Mode) - 2020/05/15
+- Dragon Quest 11S - 2020/04/30
+- Stardew Valley - 2020/02/20
 
 <a href="https://www.exophase.com/user/geekyjames/"><img src="https://card.exophase.com/2/0/46999.png?1609607379"></a>
