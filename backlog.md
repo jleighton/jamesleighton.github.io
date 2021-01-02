@@ -7,13 +7,10 @@ jumbo_title: My name is James.
 jumbo_text: And this is my gaming backlog!
 ---
 
-
-
-<div class="container">
 In 2021, I want to complete some of the following games. Lady Luck will select the next game by the roll of a dice. Some of these I've played before, but never beaten.
 
 1. Pokemon Heart Gold 🎮
-1. Phoenix Wright Ace Attorney Trilogy
+2. Phoenix Wright Ace Attorney Trilogy
 1. Super Mario World
 1. Legend of Zelda: A Link to the Past
 1. Spyro Trilogy
@@ -24,8 +21,9 @@ In 2021, I want to complete some of the following games. Lady Luck will select t
 1. The Witcher 3
 1. Kirby Triple Deluxe
 1. Weapon Shop de Omasse
-1.  Divinity Original Sin 2
+1. Divinity Original Sin 2
 1. Doom (1993)
+1. Doom (2016)
 1. Horizon Chase Turbo 🎮
 1. Katamari Damacy Reroll
 1. Wargroove
@@ -43,7 +41,6 @@ In 2021, I want to complete some of the following games. Lady Luck will select t
 1. The Legend of Zelda: Breath of the Wild
 1. Kirby's Dreamland 2
 1. Disgaea 5
-1. Zenonia (DSi Ware)
 1. Big Bang Mini
 1. Chrono Trigger
 1. Dragon Quest IV
@@ -54,9 +51,8 @@ In 2021, I want to complete some of the following games. Lady Luck will select t
 1. Grand Theft Auto: Chinatown Wars
 1. Dicey Dungeons
 1. Octopath Traveller
-1.  Hyrule Warriors Definitive Edition 🎮
+1. Hyrule Warriors Definitive Edition 🎮
 1. Pokémon Mystery Dungeon: Rescue Team DX
 1. Persona 4 Golden
 
 🎮 = Currently Playing
-</div>
