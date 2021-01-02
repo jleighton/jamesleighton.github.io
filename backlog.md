@@ -7,12 +7,15 @@ jumbo_title: My name is James.
 jumbo_text: And this is my gaming backlog!
 ---
 
-In 2021, I want to complete some of the following games. Lady Luck will select the next game by the roll of a dice. Some of these I've played before, but never beaten.
+In 2021, I want to complete some of the following games. Lady Luck will select the next game by the roll of a dice.
+
+Some of these I've played before, but never beaten. This list will also serve as a reminder to stop spending money on games the next time there is a sale...
+
+🎮 = Currently Playing
 
 1. Pokemon Heart Gold 🎮
 2. Phoenix Wright Ace Attorney Trilogy
 1. Super Mario World
-1. Legend of Zelda: A Link to the Past
 1. Spyro Trilogy
 1. Professor Layton & the Azran Legacy
 1. Super Mario Land 2
@@ -54,5 +57,7 @@ In 2021, I want to complete some of the following games. Lady Luck will select t
 1. Hyrule Warriors Definitive Edition 🎮
 1. Pokémon Mystery Dungeon: Rescue Team DX
 1. Persona 4 Golden
+1. Grand Theft Auto 3
+1. Grand Theft Auto Vice City
 
-🎮 = Currently Playing
+<a href="https://www.exophase.com/user/geekyjames/"><img src="https://card.exophase.com/2/0/46999.png?1609607379"></a>
