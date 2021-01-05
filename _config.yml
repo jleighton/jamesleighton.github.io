@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: James Leighton
 email: blog@jamesleighton.com
-description: I write things
+description: My blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.jamesleighton.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: geekyjames
