@@ -27,7 +27,9 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Dragon Quest VI
 1. Dragon Quest VII
 1. Earthbound
+1. Eight Minute Empire
 1. Fallout New Vegas
+1. Farming Simulator 17
 1. Golden Sun
 1. Golden Sun The Lost Age
 1. Grand Theft Auto 3
@@ -44,6 +46,7 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Mario + Luigi Bowsers Inside Story
 1. Mario + Luigi Partners in Time
 1. Mario + Luigi Super Star Saga
+1. Mutant Mudds Collection
 1. Octopath Traveller
 1. Paper Mario
 1. Persona 4 Golden
@@ -54,6 +57,10 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Pokémon Mystery Dungeon: Rescue Team DX
 1. Professor Layton & the Azran Legacy
 1. Pullblox
+1. Resident Evil Revelations
+1. Snipperclips
+1. Sonic Mania
+1. South Park Stick of Truth
 1. Spyro Trilogy
 1. Super Mario 3D All Stars – Galaxy
 1. Super Mario 3D All Stars – Sunshine
