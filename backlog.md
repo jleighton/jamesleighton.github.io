@@ -64,7 +64,6 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Pocket Bomberman
 1. Pokemon Heart Gold 🎮
 1. Pokémon Mystery Dungeon: Rescue Team DX
-1. Portal
 1. Portal 2
 1. Professor Layton & the Azran Legacy
 1. Pullblox
