@@ -98,13 +98,16 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Word Search by POWGI
 1. World of Goo
 
+Completed in 2021:
+
+# Portal - 2021/01/12
 
 Last Year I Completed:
 
-- Super Mario Bros 2: Yoshi's Island - 2020/08/30
-- Prison Architect - 2020/06/29
-- 42 All-Time Classics (Stamp Mode) - 2020/05/15
-- Dragon Quest 11S - 2020/04/30
-- Stardew Valley - 2020/02/20
+# Super Mario Bros 2: Yoshi's Island - 2020/08/30
+# Prison Architect - 2020/06/29
+# 42 All-Time Classics (Stamp Mode) - 2020/05/15
+# Dragon Quest 11S - 2020/04/30
+# Stardew Valley - 2020/02/20
 
 <a href="https://www.exophase.com/user/geekyjames/"><img src="https://card.exophase.com/2/0/46999.png?1609607379"></a>
