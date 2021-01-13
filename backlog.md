@@ -100,7 +100,7 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 
 Completed in 2021:
 
-# Portal - 2021/01/12
+0. Portal - 2021/01/12
 
 Last Year I Completed:
 
