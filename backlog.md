@@ -17,7 +17,7 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Chrono Trigger
 1. Crash Bandicoot N Sane Trilogy
 1. Crimson Shroud
-1. Cthulhu Saves the World
+1. Cthulhu Saves the World 🎮
 1. Dicey Dungeons
 1. Disgaea 5
 1. Divinity Original Sin 2
@@ -44,7 +44,7 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Grand Theft Auto San Andreas
 1. Grand Theft Auto: Chinatown Wars
 1. Grand Theft Auto: Liberty City Stories
-1. Horizon Chase Turbo 🎮
+1. Horizon Chase Turbo
 1. Hyrule Warriors Definitive Edition 🎮
 1. James Bond 007
 1. Katamari Damacy Reroll
@@ -62,7 +62,7 @@ Throughout 2021, Lady Luck will select the next games I play by the roll of a di
 1. Phoenix Wright Ace Attorney Trilogy
 1. Pikmin 3
 1. Pocket Bomberman
-1. Pokemon Heart Gold 🎮
+1. Pokemon Heart Gold
 1. Pokémon Mystery Dungeon: Rescue Team DX
 1. Portal 2
 1. Professor Layton & the Azran Legacy
